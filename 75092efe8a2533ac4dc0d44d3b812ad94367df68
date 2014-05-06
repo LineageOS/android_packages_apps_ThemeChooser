@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3afc51ec_4b3af1ce",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-06T05:45:30Z",
+      "side": 1,
+      "message": "- Lock screen",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_2b37a5e4",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-06T05:45:30Z",
+      "side": 1,
+      "message": "- Boot animations",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_8b34f9de",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-06T05:45:30Z",
+      "side": 1,
+      "message": "maybe add ... at the end?",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_6b31adec",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-06T05:45:30Z",
+      "side": 1,
+      "message": "- Author unknown",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_cb4c4179",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-05-06T05:45:30Z",
+      "side": 1,
+      "message": "- No preview available",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
