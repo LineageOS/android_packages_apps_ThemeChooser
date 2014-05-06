@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "3afc51ec_ab78d590",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-05-06T06:03:45Z",
+      "side": 1,
+      "message": "Copyright header should follow the rest of the projects: http://pastebin.com/9cY1phYD",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3afc51ec_4b3af1ce",
         "filename": "res/values/strings.xml",
         "patchSetId": 4
