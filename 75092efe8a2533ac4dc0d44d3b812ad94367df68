@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1af94dfe_3b953740",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-07T07:19:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3afc51ec_ab78d590",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3afc51ec_4b3af1ce",
         "filename": "res/values/strings.xml",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2014-05-06T05:45:30Z",
       "side": 1,
       "message": "- Lock screen",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1af94dfe_1b92fb57",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-07T07:19:11Z",
+      "side": 1,
+      "message": "We\u0027ll give feedback to UX but ultimately this is as designed.",
+      "parentUuid": "3afc51ec_4b3af1ce",
       "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "1af94dfe_7b9fbf5f",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-07T07:19:11Z",
+      "side": 1,
+      "message": "We\u0027ll give feedback to UX but ultimately this is as designed.",
+      "parentUuid": "3afc51ec_2b37a5e4",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3afc51ec_8b34f9de",
         "filename": "res/values/strings.xml",
         "patchSetId": 4
@@ -64,6 +118,24 @@
       "writtenOn": "2014-05-06T05:45:30Z",
       "side": 1,
       "message": "maybe add ... at the end?",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1af94dfe_fbaf4f7b",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-07T07:19:11Z",
+      "side": 1,
+      "message": "We\u0027ll give feedback to UX but ultimately this is as designed.",
+      "parentUuid": "3afc51ec_8b34f9de",
       "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "1af94dfe_3bca5750",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-07T07:19:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3afc51ec_6b31adec",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3afc51ec_cb4c4179",
         "filename": "res/values/strings.xml",
         "patchSetId": 4
@@ -98,6 +188,24 @@
       "writtenOn": "2014-05-06T05:45:30Z",
       "side": 1,
       "message": "- No preview available",
+      "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1af94dfe_1bc79b46",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-07T07:19:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3afc51ec_cb4c4179",
       "revId": "75092efe8a2533ac4dc0d44d3b812ad94367df68",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
