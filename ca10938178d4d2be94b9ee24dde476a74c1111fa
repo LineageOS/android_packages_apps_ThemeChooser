@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "da0c15f0_05e29503",
+        "filename": "src/org/cyanogenmod/theme/chooser/BootAniPreviewFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-14T09:25:42Z",
+      "side": 1,
+      "message": "Done\nRenamed to clearBootAnimationCache and checking for files that end with _bootanimation.zip",
+      "parentUuid": "da0c15f0_855225dc",
+      "revId": "ca10938178d4d2be94b9ee24dde476a74c1111fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da0c15f0_e5e84119",
         "filename": "src/org/cyanogenmod/theme/widget/BootAniImageView.java",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2014-05-14T08:44:17Z",
       "side": 1,
       "message": "unecessary comment",
+      "revId": "ca10938178d4d2be94b9ee24dde476a74c1111fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_45f64dd8",
+        "filename": "src/org/cyanogenmod/theme/widget/BootAniImageView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-14T09:25:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "da0c15f0_e5e84119",
       "revId": "ca10938178d4d2be94b9ee24dde476a74c1111fa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
