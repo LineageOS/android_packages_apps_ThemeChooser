@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_a5e7693f",
+        "filename": "src/org/cyanogenmod/theme/chooser/BootAniPreviewFragment.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-05-14T08:27:59Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this go into the parent commit?",
+      "revId": "c812e40a4e7d740f7260b71bf0fa491724f50752",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
