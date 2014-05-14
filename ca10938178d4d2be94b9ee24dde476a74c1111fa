@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_855225dc",
+        "filename": "src/org/cyanogenmod/theme/chooser/BootAniPreviewFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-14T08:44:17Z",
+      "side": 1,
+      "message": "Is the intention to clear the entire cache (sans dirs) or just the bootanimation cache? Because this might not be the ideal location to clear cache for the whole app.",
+      "revId": "ca10938178d4d2be94b9ee24dde476a74c1111fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_e5e84119",
+        "filename": "src/org/cyanogenmod/theme/widget/BootAniImageView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-05-14T08:44:17Z",
+      "side": 1,
+      "message": "unecessary comment",
+      "revId": "ca10938178d4d2be94b9ee24dde476a74c1111fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
