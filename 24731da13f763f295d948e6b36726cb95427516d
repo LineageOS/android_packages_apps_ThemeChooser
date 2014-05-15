@@ -34,6 +34,24 @@
       "revId": "24731da13f763f295d948e6b36726cb95427516d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_58cab450",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 507,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T11:11:39Z",
+      "side": 1,
+      "message": "yes and it needs to be wrapped because it is \u003e100 chars.",
+      "parentUuid": "da0c15f0_18b03cdd",
+      "revId": "24731da13f763f295d948e6b36726cb95427516d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
