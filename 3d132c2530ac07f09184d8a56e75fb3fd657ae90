@@ -16,6 +16,109 @@
       "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_f89d885a",
+        "filename": "src/com/viewpagerindicator/CirclePageIndicator.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T10:28:03Z",
+      "side": 1,
+      "message": "To be fair this was taken from JAke Whartons page indicator library, but it won\u0027t hurt to fix these issues.",
+      "parentUuid": "da0c15f0_1882fc00",
+      "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_587c7420",
+        "filename": "src/com/viewpagerindicator/CirclePageIndicator.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T10:28:03Z",
+      "side": 1,
+      "message": "You missed one Taichi ;)",
+      "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_3879c030",
+        "filename": "src/com/viewpagerindicator/CirclePageIndicator.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T10:28:03Z",
+      "side": 1,
+      "message": "and another",
+      "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_d88ec426",
+        "filename": "src/com/viewpagerindicator/CirclePageIndicator.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 298,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T10:28:03Z",
+      "side": 1,
+      "message": "another",
+      "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_b893104f",
+        "filename": "src/com/viewpagerindicator/CirclePageIndicator.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 358,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T10:28:03Z",
+      "side": 1,
+      "message": "another",
+      "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_18995c6f",
+        "filename": "src/com/viewpagerindicator/CirclePageIndicator.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 544,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T10:28:03Z",
+      "side": 1,
+      "message": "otra mas",
+      "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
