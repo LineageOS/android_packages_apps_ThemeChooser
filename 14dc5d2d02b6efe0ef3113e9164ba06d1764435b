@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_d8036475",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 349,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-05-15T11:55:58Z",
+      "side": 1,
+      "message": "Kill the tab",
+      "revId": "14dc5d2d02b6efe0ef3113e9164ba06d1764435b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
