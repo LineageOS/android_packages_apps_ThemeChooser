@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_b8d4b047",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T04:42:27Z",
+      "side": 1,
+      "message": "Don\u0027t ship this!!!!  mSlidingPanel.getHandle()",
+      "revId": "187cf29aa63ae75a3d95ed4605a58242e4feb155",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da0c15f0_18cafca1",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-05-15T04:42:27Z",
+      "side": 1,
+      "message": "can we define these values as constants with some meaningful names?",
+      "revId": "187cf29aa63ae75a3d95ed4605a58242e4feb155",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
