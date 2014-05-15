@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_1882fc00",
+        "filename": "src/com/viewpagerindicator/CirclePageIndicator.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-05-15T10:24:35Z",
+      "side": 1,
+      "message": "Please wrap at 100 char",
+      "revId": "3d132c2530ac07f09184d8a56e75fb3fd657ae90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
