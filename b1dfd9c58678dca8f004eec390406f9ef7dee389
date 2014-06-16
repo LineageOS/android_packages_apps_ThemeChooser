@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_2d098532",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-16T19:33:15Z",
+      "side": 1,
+      "message": "The parameter is kinda useless, as getActivity() is available in this method.",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_4d0cb942",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-16T19:33:15Z",
+      "side": 1,
+      "message": "Wouldn\u0027t it be better to define an intent action (e.g. \u0027org.cyanogenmod.intent.action.BROWSE_THEME_STORE\u0027) and do a more loose coupling? The cyngn store then could add an intent filter to StoreActivity, and instead of doing hard package name checks, the code could check whether the intent is resolvable.",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_8d06d11e",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-16T19:33:15Z",
+      "side": 1,
+      "message": "Why do this with a StringBuilder instead of adding the parameter to the constant?",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_6d037d10",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-16T19:33:15Z",
+      "side": 1,
+      "message": "Please wrap to 100 chars (or even better inflate the layout from XML)",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_bf03f80c",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-16T19:33:15Z",
+      "side": 1,
+      "message": "Is this block really needed? IOW: Isn\u0027t the browsing supposed to continue in the WebView instead of jumping out to the browser?",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_dffeac04",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-16T19:33:15Z",
+      "side": 1,
+      "message": "Why is this needed?",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
