@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "ba0121b8_ff39f042",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-06-17T05:15:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba0121b8_2d098532",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba0121b8_4d0cb942",
         "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2014-06-16T19:33:15Z",
       "side": 1,
       "message": "Wouldn\u0027t it be better to define an intent action (e.g. \u0027org.cyanogenmod.intent.action.BROWSE_THEME_STORE\u0027) and do a more loose coupling? The cyngn store then could add an intent filter to StoreActivity, and instead of doing hard package name checks, the code could check whether the intent is resolvable.",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_7f4680c0",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-06-17T05:15:57Z",
+      "side": 1,
+      "message": "Good idea but how about we hold off on this for this round. Its not hard but there will be a dependency on the showcase which has its own release process.",
+      "parentUuid": "ba0121b8_4d0cb942",
       "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "ba0121b8_9f20b4f9",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-06-17T05:15:57Z",
+      "side": 1,
+      "message": "Done. Ah, there was some code here to request the correct language based on the locale which got shelved (for now). Going to simply move this into GET_THEMES_URL.",
+      "parentUuid": "ba0121b8_8d06d11e",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba0121b8_6d037d10",
         "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
         "patchSetId": 2
@@ -64,6 +118,24 @@
       "writtenOn": "2014-06-16T19:33:15Z",
       "side": 1,
       "message": "Please wrap to 100 chars (or even better inflate the layout from XML)",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_bfcbf81d",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-06-17T05:15:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba0121b8_6d037d10",
       "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "ba0121b8_bf649849",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-06-17T05:15:57Z",
+      "side": 1,
+      "message": "This is actually stock webview behavior which is what we want. If you have play store installed and click a play store url it should jump out to the app for a better experience. Browsing in a webview dialog is not very user friendly.\n\nThe only reason we even need a webview client is to clear the spinner. An unfortunate side effect however is that we lose the stock webview client behavior for url presses (IE, it won\u0027t jump out of the webview).  So as the comment mentions at the top, the code for \"shouldOverrideUrlLoading\" is copied from NullWebViewClient.",
+      "parentUuid": "ba0121b8_bf03f80c",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba0121b8_dffeac04",
         "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
         "patchSetId": 2
@@ -98,6 +188,24 @@
       "writtenOn": "2014-06-16T19:33:15Z",
       "side": 1,
       "message": "Why is this needed?",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_7f4b20b1",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 9444
+      },
+      "writtenOn": "2014-06-17T05:15:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba0121b8_dffeac04",
       "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
