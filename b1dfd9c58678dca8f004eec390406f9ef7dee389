@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "ba0121b8_18e83a7c",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2014-06-18T23:24:08Z",
+      "side": 1,
+      "message": "Fine with me - but please don\u0027t forget about it :)",
+      "parentUuid": "ba0121b8_7f4680c0",
+      "revId": "b1dfd9c58678dca8f004eec390406f9ef7dee389",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba0121b8_8d06d11e",
         "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
         "patchSetId": 2
