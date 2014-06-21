@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_4922e6ba",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-21T08:23:50Z",
+      "side": 1,
+      "message": "- More info on the CyanogenMod Wiki",
+      "revId": "a9f01975eef0048b97a653e455f7a6c083d9e905",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_69252ac1",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-06-21T08:23:50Z",
+      "side": 1,
+      "message": "Link doesn\u0027t work, should be something like\n\nhttps://play.google.com/store/search?q\u003dtheme%20engine%20apps",
+      "revId": "a9f01975eef0048b97a653e455f7a6c083d9e905",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
