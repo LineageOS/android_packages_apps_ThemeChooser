@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_b46dbc06",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-09-05T03:09:33Z",
+      "side": 1,
+      "message": "This key is quite long and unnecessary.  Consider changing it to something simple, i.e. \"web_view_showing\"",
+      "revId": "42db53c52e371aee03cc0d92f4664711a64fe2fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_947240e4",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserBrowseFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2014-09-05T03:09:33Z",
+      "side": 1,
+      "message": "This line is \u003e 100 chars so you\u0027ll need to wrap it",
+      "revId": "42db53c52e371aee03cc0d92f4664711a64fe2fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
