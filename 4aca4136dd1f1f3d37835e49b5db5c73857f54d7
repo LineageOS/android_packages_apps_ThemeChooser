@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_f343e26a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-01-22T10:14:19Z",
+      "side": 1,
+      "message": "No need to prefix with \"ThemeChooser:\" since this is the ThemeChooser project.\n\nnit: Improve strings could be changed to \"Clean up string resources\" as that gives a better indication of what is going on.",
+      "revId": "4aca4136dd1f1f3d37835e49b5db5c73857f54d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
