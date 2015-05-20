@@ -1,0 +1,157 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_737331b2",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_b365b9e2",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "Line wrap",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_d3623dd8",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "incorrect indentation, also tabs instead of spaces.",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_9368b5bc",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "Line wrap",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_f35f410c",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 225,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "White space",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_139bc5ca",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "tabs instead of space.",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_33a0c9f4",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "tabs instead of spaces",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_73aa51d6",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_93afd5e2",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-20T05:01:15Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "576a9648ddc626e4af1cdf32ca29cd7629fa412e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
