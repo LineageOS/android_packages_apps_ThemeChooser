@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_b36f7991",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-05-20T06:09:20Z",
+      "side": 1,
+      "message": "You should also check that the theme is not installed as a system app, if so you won\u0027t be able to uninstall it.",
+      "revId": "99e43ae4d27b6370dcf9f60e936000b5f05ab054",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
