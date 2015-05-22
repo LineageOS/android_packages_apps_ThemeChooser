@@ -33,6 +33,23 @@
       "revId": "390e5d0aa60109710c5cd89207eda0bf3c126625",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_e4a7794d",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 236,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-05-22T03:35:06Z",
+      "side": 1,
+      "message": "use the Log class here to print a warning message",
+      "revId": "390e5d0aa60109710c5cd89207eda0bf3c126625",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
