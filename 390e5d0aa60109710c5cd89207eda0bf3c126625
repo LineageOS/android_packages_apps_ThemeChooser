@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_84b06d8d",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 231,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-22T03:28:28Z",
+      "side": 1,
+      "message": "line wrap",
+      "revId": "390e5d0aa60109710c5cd89207eda0bf3c126625",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_a4ad7133",
+        "filename": "src/org/cyanogenmod/theme/chooser/ChooserDetailFragment.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 12937
+      },
+      "writtenOn": "2015-05-22T03:28:28Z",
+      "side": 1,
+      "message": "line wrap.\nalso, the first \"and\" operator should be a logical, the second one is fine since you\u0027re doing masking.",
+      "revId": "390e5d0aa60109710c5cd89207eda0bf3c126625",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
