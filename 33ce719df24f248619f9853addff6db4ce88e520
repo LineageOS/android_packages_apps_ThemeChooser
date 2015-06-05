@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_cfb61f3d",
+        "filename": "res/drawable/card_background.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-06-05T09:25:40Z",
+      "side": 1,
+      "message": "need copyright",
+      "revId": "33ce719df24f248619f9853addff6db4ce88e520",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ef811b4f",
+        "filename": "res/layout-land/fragment_chooser_browse.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-06-05T09:25:40Z",
+      "side": 1,
+      "message": "2015",
+      "revId": "33ce719df24f248619f9853addff6db4ce88e520",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_0f872762",
+        "filename": "res/layout-sw600dp/activity_main.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-06-05T09:25:40Z",
+      "side": 1,
+      "message": "2015",
+      "revId": "33ce719df24f248619f9853addff6db4ce88e520",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_6f96eb95",
+        "filename": "res/layout/icon_item.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2015-06-05T09:25:40Z",
+      "side": 1,
+      "message": "unused layout",
+      "revId": "33ce719df24f248619f9853addff6db4ce88e520",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
