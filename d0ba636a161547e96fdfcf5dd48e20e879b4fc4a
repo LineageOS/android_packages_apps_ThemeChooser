@@ -16,6 +16,24 @@
       "revId": "d0ba636a161547e96fdfcf5dd48e20e879b4fc4a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_f4b0458e",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 16
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2016-02-10T23:52:15Z",
+      "side": 1,
+      "message": "i had no problems with this change. It made no sense to have version code \u003d7 while the versionName was 1, i think that was a typo. Anyway i\u0027m bumping for these new changes",
+      "parentUuid": "ffb9cba7_34b7bd89",
+      "revId": "d0ba636a161547e96fdfcf5dd48e20e879b4fc4a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
