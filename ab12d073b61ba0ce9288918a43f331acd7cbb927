@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_d472e111",
+        "filename": "src/org/cyanogenmod/theme/chooser/WallpaperAndIconPreviewFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-02-10T23:23:21Z",
+      "side": 1,
+      "message": "I would say just go ahead and remove this",
+      "range": {
+        "startLine": 76,
+        "startChar": 0,
+        "endLine": 77,
+        "endChar": 90
+      },
+      "revId": "ab12d073b61ba0ce9288918a43f331acd7cbb927",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_7461b539",
+        "filename": "src/org/cyanogenmod/theme/chooser/WallpaperAndIconPreviewFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-02-10T23:23:21Z",
+      "side": 1,
+      "message": "and this",
+      "range": {
+        "startLine": 81,
+        "startChar": 0,
+        "endLine": 81,
+        "endChar": 72
+      },
+      "revId": "ab12d073b61ba0ce9288918a43f331acd7cbb927",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
