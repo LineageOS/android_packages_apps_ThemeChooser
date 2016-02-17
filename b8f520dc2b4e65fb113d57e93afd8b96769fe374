@@ -46,6 +46,24 @@
       "revId": "b8f520dc2b4e65fb113d57e93afd8b96769fe374",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_35aec9e7",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 19
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2016-02-17T04:05:35Z",
+      "side": 1,
+      "message": "this has multiple purpose: automatic darker color for statusbar on theme fragment and for better navigation drawer appareance. Please revert and let themes adapt to this change, we don\u0027t have to make changes with \"respect of themes\", themes must update accordingly to the base. Also not every theme changes toolbar height",
+      "parentUuid": "ffb9cba7_3569e9bd",
+      "revId": "b8f520dc2b4e65fb113d57e93afd8b96769fe374",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
