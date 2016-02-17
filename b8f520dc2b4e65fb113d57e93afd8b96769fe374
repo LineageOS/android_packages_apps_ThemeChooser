@@ -22,6 +22,30 @@
       "revId": "b8f520dc2b4e65fb113d57e93afd8b96769fe374",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffb9cba7_3569e9bd",
+        "filename": "res/values/styles.xml",
+        "patchSetId": 19
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2016-02-17T03:57:02Z",
+      "side": 1,
+      "message": "I guess it\u0027s there to get the status bar colored in the theme color as well by making the (colored) toolbar extend under the status bar, which is transparent.\n\nSame effect could probably be achieved by deriving a darker color from the selected theme and setting the status bar color manually though.",
+      "parentUuid": "ffb9cba7_952695b7",
+      "range": {
+        "startLine": 27,
+        "startChar": 28,
+        "endLine": 27,
+        "endChar": 51
+      },
+      "revId": "b8f520dc2b4e65fb113d57e93afd8b96769fe374",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
