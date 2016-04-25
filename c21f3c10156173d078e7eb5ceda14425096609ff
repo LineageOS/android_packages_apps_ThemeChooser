@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5faad753_8d8e9325",
+        "filename": "res/layout-sw600dp/activity_main.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2016-04-25T06:08:25Z",
+      "side": 1,
+      "message": "Lint suggested it for \u0027better performance\u0027",
+      "parentUuid": "5faad753_0d94e343",
+      "revId": "c21f3c10156173d078e7eb5ceda14425096609ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_2d919f53",
         "filename": "res/layout/fragment_chooser_theme_pager_item.xml",
         "patchSetId": 1
