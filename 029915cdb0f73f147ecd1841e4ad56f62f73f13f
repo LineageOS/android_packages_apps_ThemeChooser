@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_d27603a5",
+        "filename": "src/org/cyanogenmod/theme/util/NotificationHelper.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-05-28T13:19:44Z",
+      "side": 1,
+      "message": "unnecessary change",
+      "range": {
+        "startLine": 31,
+        "startChar": 1,
+        "endLine": 32,
+        "endChar": 29
+      },
+      "revId": "029915cdb0f73f147ecd1841e4ad56f62f73f13f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
