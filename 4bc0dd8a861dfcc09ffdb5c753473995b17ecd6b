@@ -1,0 +1,239 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_c2f519cd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "Seems pretty complete so no need for identifying it as a WiP.  Change to \"Move actions in theme card to overflow menu\" to mirror the topic of the associated ticket.",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 47
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_e240550a",
+        "filename": "res/layout/title_card.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "can remove this line since the overflow menu will always be visible",
+      "range": {
+        "startLine": 61,
+        "startChar": 1,
+        "endLine": 61,
+        "endChar": 41
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_0246d124",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 446,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "this line won\u0027t be necessary once the layout is fixed to always show the overflow icon",
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_2260ada5",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 463,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "not necessary since all themes will have the customize menu option",
+      "range": {
+        "startLine": 463,
+        "startChar": 0,
+        "endLine": 463,
+        "endChar": 72
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_825161db",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 465,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "this can be moved to the else {} block where you call .setEnabled(false)",
+      "range": {
+        "startLine": 465,
+        "startChar": 20,
+        "endLine": 465,
+        "endChar": 69
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_c270b975",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 475,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "same as before, not necessary",
+      "range": {
+        "startLine": 475,
+        "startChar": 0,
+        "endLine": 475,
+        "endChar": 72
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_826ac17d",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 481,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "default and system theme should still show the reset action if it is the currently applied theme",
+      "range": {
+        "startLine": 480,
+        "startChar": 0,
+        "endLine": 481,
+        "endChar": 88
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_626d4597",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 482,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "same as before, not necessary",
+      "range": {
+        "startLine": 482,
+        "startChar": 0,
+        "endLine": 482,
+        "endChar": 72
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_22050dc3",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 755,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "unused",
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_420a89d2",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 763,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "remove since this is no longer needed",
+      "range": {
+        "startLine": 757,
+        "startChar": 0,
+        "endLine": 763,
+        "endChar": 14
+      },
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_a2f81dc4",
+        "filename": "src/org/cyanogenmod/theme/widget/ThemeTagLayout.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 1,
+      "message": "should not be needed once changes are made to ThemeFragment",
+      "revId": "4bc0dd8a861dfcc09ffdb5c753473995b17ecd6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

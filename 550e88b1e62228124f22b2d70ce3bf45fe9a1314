@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_e20e15e4",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ThemeFragment.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 2555,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-09-01T14:49:22Z",
+      "side": 0,
+      "message": "these methods and the calls to them still apply except now the only action button is mOverflow",
+      "range": {
+        "startLine": 2545,
+        "startChar": 0,
+        "endLine": 2555,
+        "endChar": 5
+      },
+      "revId": "550e88b1e62228124f22b2d70ce3bf45fe9a1314",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
