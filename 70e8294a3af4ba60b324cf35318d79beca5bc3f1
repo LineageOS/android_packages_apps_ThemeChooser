@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_80b88a76",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ChooserActivity.java",
+        "patchSetId": 52
+      },
+      "lineNbr": 1222,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2016-12-15T18:51:22Z",
+      "side": 1,
+      "message": "could use a space after comma :)",
+      "revId": "70e8294a3af4ba60b324cf35318d79beca5bc3f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_60bbae71",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ChooserActivity.java",
+        "patchSetId": 52
+      },
+      "lineNbr": 1238,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2016-12-15T18:51:22Z",
+      "side": 1,
+      "message": "same",
+      "revId": "70e8294a3af4ba60b324cf35318d79beca5bc3f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_c0b1e291",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ChooserActivity.java",
+        "patchSetId": 52
+      },
+      "lineNbr": 1242,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2016-12-15T18:51:22Z",
+      "side": 1,
+      "message": "and here",
+      "revId": "70e8294a3af4ba60b324cf35318d79beca5bc3f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_a0aca635",
+        "filename": "src/org/cyanogenmod/theme/chooser2/ChooserActivity.java",
+        "patchSetId": 52
+      },
+      "lineNbr": 1247,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2016-12-15T18:51:22Z",
+      "side": 1,
+      "message": "and here",
+      "revId": "70e8294a3af4ba60b324cf35318d79beca5bc3f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
