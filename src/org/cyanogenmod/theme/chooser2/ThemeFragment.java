@@ -2324,7 +2324,7 @@ public class ThemeFragment extends Fragment implements LoaderManager.LoaderCallb
                 Bitmap bmp = WallpaperUtils.createPreview(size, context, mExternalLockscreenUri,
                         null, res, 0, 0, false);
                 try {
-                    wm.setKeyguardBitmap(bmp);
+                    wm.setBitmap(bmp, null, true, WallpaperManager.FLAG_LOCK);
                 } catch (Exception e) {
                     Log.e(TAG, "Unable to set external lockscreen wallpaper", e);
                 }
