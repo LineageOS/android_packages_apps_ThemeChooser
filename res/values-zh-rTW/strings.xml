@@ -17,7 +17,7 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">主題選擇器</string>
+  <string name="app_name">主題選擇工具</string>
   <string name="font_preview_letters">AaBbCcDd</string>
   <string name="theme_installed_notification_title">%s 已安裝</string>
   <string name="theme_installed_notification_text">已成功主題安裝。</string>
@@ -30,10 +30,10 @@
   <string name="icon_label">圖示</string>
   <string name="font_label">字體</string>
   <string name="statusbar_label">狀態</string>
-  <string name="navbar_label">導航</string>
+  <string name="navbar_label">導覽</string>
   <string name="wallpaper_label">桌布</string>
-  <string name="lockscreen_label">鎖定螢幕桌布</string>
-  <string name="live_lock_screen_label">活動鎖定螢幕</string>
+  <string name="lockscreen_label">鎖定畫面桌布</string>
+  <string name="live_lock_screen_label">活動鎖定畫面</string>
   <string name="style_label">控制</string>
   <string name="boot_animation_label">開機動畫</string>
   <string name="alarm_label">鬧鐘</string>
@@ -51,30 +51,30 @@
   <string name="reset_theme_overlay_title">重設</string>
   <!-- TAG text -->
   <string name="default_tag_text">預設</string>
-  <string name="customized_tag_text">已自定義化</string>
+  <string name="customized_tag_text">已自訂</string>
   <string name="updated_tag_text">已更新</string>
   <string name="add_component_text">新增</string>
   <string name="wallpaper_none">無</string>
   <string name="audible_title_none">無</string>
   <!-- Labels for the customize/reset theme layout -->
   <string name="reset_theme">重設</string>
-  <string name="customize_theme">個人化</string>
+  <string name="customize_theme">自訂</string>
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">選擇圖片</string>
   <string name="wallpaper_none_title">無</string>
   <string name="mod_lock_title">模組鎖</string>
-  <string name="processing_theme">正在處理\u2026</string>
+  <string name="processing_theme">處理中\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">注意：%s是設計給較舊版本的CM使用，使用這個主題可能會遇到相容性問題。</string>
   <!-- Per app theming -->
-  <string name="per_app_theming_title">應用程式主題設定員</string>
+  <string name="per_app_theming_title">應用程式主題設定工具</string>
   <string name="per_app_theme_removal_warning">注意：套用新主題將移除所有應用程式主題自訂設定。</string>
   <string name="per_app_theme_applying">正在套用您的主題</string>
-  <string name="per_app_theme_app_not_overlaid_warning">主題不支援此應用程式，某些元素可能無法更改。</string>
+  <string name="per_app_theme_app_not_overlaid_warning">主題不支援此應用程式，某些元素可能無法變更。</string>
   <string name="read_external_permission_denied_message">主題選擇器無法存取媒體並且無法在此時選取圖片。</string>
   <string name="animated_lock_screen_badge_text">動畫</string>
-  <string name="enable_live_lock_screen_dialog_title">啟用活動鎖定螢幕</string>
-  <string name="enable_live_lock_screen_dialog_message">動畫鎖定螢幕需使用活動鎖定螢幕功能，您可以稍後透過開啟設定，活動鎖定螢幕頁面下的鎖定螢幕選項來更改此設定。</string>
+  <string name="enable_live_lock_screen_dialog_title">啟用活動鎖定畫面</string>
+  <string name="enable_live_lock_screen_dialog_message">動畫鎖定畫面需使用活動鎖定畫面功能，您可以稍後透過開啟設定，活動鎖定畫面頁面下的鎖定畫面選項來變更此設定。</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">啟用</string>
   <string name="get_more_app_not_available">應用程式無法使用</string>
   <string name="new_feature_label">新</string>
