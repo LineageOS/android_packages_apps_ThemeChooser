@@ -54,12 +54,19 @@
   <string name="customized_tag_text">Personalizado</string>
   <string name="updated_tag_text">Actualizado</string>
   <string name="add_component_text">Añadir</string>
+  <string name="wallpaper_none">Ninguna</string>
+  <string name="audible_title_none">Ninguna</string>
   <!-- Labels for the customize/reset theme layout -->
+  <string name="reset_theme">Restablecer</string>
+  <string name="customize_theme">Personalizar</string>
   <!-- Extra wallpaper components for selector -->
+  <string name="wallpaper_external_title">Elegir imagen</string>
+  <string name="wallpaper_none_title">Ninguna</string>
   <string name="processing_theme">Procesando\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">AVISO: %s fue diseñado para una versión anterior de CM. Puedes experimentar problemas de compatibilidad con este tema.</string>
   <!-- Per app theming -->
+  <string name="per_app_theming_title">Aplicación de temas</string>
   <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema eliminará cualquier personalización previa de la aplicación de temas.</string>
   <string name="per_app_theme_applying">El tema se está aplicando</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema no es compatible con esta aplicación, algunos elementos no pueden cambiar.</string>
