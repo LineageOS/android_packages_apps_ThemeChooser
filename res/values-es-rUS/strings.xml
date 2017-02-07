@@ -28,7 +28,7 @@
   <string name="font_component_item_text">Aa</string>
   <!-- Labels for each theme component card -->
   <string name="icon_label">Íconos</string>
-  <string name="font_label">Fuentes</string>
+  <string name="font_label">Tipos de letra</string>
   <string name="statusbar_label">Estado</string>
   <string name="navbar_label">Navegación</string>
   <string name="wallpaper_label">Fondo de pantalla</string>

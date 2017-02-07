@@ -62,6 +62,7 @@
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">Elegir imagen</string>
   <string name="wallpaper_none_title">Ninguna</string>
+  <string name="mod_lock_title">Bloqueo MOD</string>
   <string name="processing_theme">Procesando\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">AVISO: %s fue diseñado para una versión anterior de CM. Puedes experimentar problemas de compatibilidad con este tema.</string>
