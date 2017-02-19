@@ -18,27 +18,64 @@
  -->
 <resources>
   <string name="app_name">Вибір тем</string>
+  <string name="font_preview_letters">АаБбВвГг</string>
   <string name="theme_installed_notification_title">Тема «%s» встановлена</string>
   <string name="theme_installed_notification_text">Тема успішно встановлена.</string>
   <!-- Note: These are for "themes", meaning multiple themes -->
+  <string name="themes_installed_notification_title">Встановлено %d тем</string>
+  <string name="themes_installed_notification_text_one">%1$s і %2$d інше встановлено.</string>
+  <string name="themes_installed_notification_text_other">%1$s і %2$d, інші встановлені.</string>
+  <string name="font_component_item_text">Аа</string>
   <!-- Labels for each theme component card -->
   <string name="icon_label">Iконки</string>
   <string name="font_label">Шрифти</string>
+  <string name="statusbar_label">Стан</string>
+  <string name="navbar_label">Навігація</string>
+  <string name="wallpaper_label">Шпалери</string>
+  <string name="lockscreen_label">Шпалери екрану блокування</string>
+  <string name="live_lock_screen_label">Живий екран блокування</string>
+  <string name="style_label">Елементи керування</string>
+  <string name="boot_animation_label">Анімація завантаження</string>
   <string name="alarm_label">Будильник</string>
   <string name="notification_label">Сповіщення</string>
   <string name="ringtone_label">Дзвінок</string>
   <!-- Overflow menu -->
+  <string name="menu_customize">Налаштувати</string>
+  <string name="menu_delete">Видалити</string>
+  <string name="menu_reset">Скидання теми</string>
   <!-- Shop themes -->
   <string name="shop_themes">Купити теми</string>
   <!-- Overlay titles -->
   <string name="apply_theme_overlay_title">Застосувати</string>
+  <string name="delete_theme_overlay_title">Видалити</string>
+  <string name="reset_theme_overlay_title">Скидання</string>
   <!-- TAG text -->
+  <string name="default_tag_text">За замовчуванням</string>
+  <string name="customized_tag_text">Налаштовано</string>
+  <string name="updated_tag_text">Оновлено</string>
+  <string name="add_component_text">Додати</string>
+  <string name="wallpaper_none">Жоден</string>
+  <string name="audible_title_none">Жоден</string>
   <!-- Labels for the customize/reset theme layout -->
+  <string name="reset_theme">Скидання</string>
+  <string name="customize_theme">Налаштувати</string>
   <!-- Extra wallpaper components for selector -->
+  <string name="wallpaper_external_title">Вибрати зображення</string>
+  <string name="wallpaper_none_title">Немає</string>
+  <string name="mod_lock_title">MOD Lock</string>
   <string name="processing_theme">Обробка\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">Примітка: %s було розроблено для попередньої версії CM. Використання цієї теми може спричинити проблеми.</string>
   <!-- Per app theming -->
+  <string name="per_app_theming_title">Додаток Теми</string>
   <string name="per_app_theme_removal_warning">Примітка: Застосування нової теми призведе до скидання всіх налаштувань тем в додатках.</string>
+  <string name="per_app_theme_applying">Ваша тема застосовується</string>
+  <string name="per_app_theme_app_not_overlaid_warning">Тема не підтримує даний додаток, деякі елементи можуть залишитися незмінними.</string>
+  <string name="read_external_permission_denied_message">Диспетчер тем не може отримати доступ, тому зараз неможливо вибрати зображення.</string>
+  <string name="animated_lock_screen_badge_text">Анімація</string>
+  <string name="enable_live_lock_screen_dialog_title">Увімкнути живий екран блокування</string>
+  <string name="enable_live_lock_screen_dialog_message">Для анімованого екрану блокування потрібно включити функцію живого екрану блокування. Це можна зробити пізніше в Налаштуваннях, відкривши розділ «Параметри екрану блокування».</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Увімкнути</string>
   <string name="get_more_app_not_available">Додаток недоступний</string>
+  <string name="new_feature_label">Новий</string>
 </resources>

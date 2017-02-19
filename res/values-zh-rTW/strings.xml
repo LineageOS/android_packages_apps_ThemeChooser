@@ -71,7 +71,7 @@
   <string name="per_app_theme_removal_warning">注意：套用新主題將移除所有應用程式主題自訂設定。</string>
   <string name="per_app_theme_applying">正在套用您的主題</string>
   <string name="per_app_theme_app_not_overlaid_warning">主題不支援此應用程式，某些元素可能無法變更。</string>
-  <string name="read_external_permission_denied_message">主題選擇器無法存取媒體並且無法在此時選取圖片。</string>
+  <string name="read_external_permission_denied_message">主題選擇工具無法存取媒體並且無法在此時選取圖片。</string>
   <string name="animated_lock_screen_badge_text">動畫</string>
   <string name="enable_live_lock_screen_dialog_title">啟用活動鎖定畫面</string>
   <string name="enable_live_lock_screen_dialog_message">動畫鎖定畫面需使用活動鎖定畫面功能，您可以稍後透過開啟設定，活動鎖定畫面頁面下的鎖定畫面選項來變更此設定。</string>
