@@ -17,13 +17,24 @@
      limitations under the License.
  -->
 <resources>
+  <string name="app_name">Theme Chooser</string>
+  <string name="font_preview_letters">AaBbCcDd</string>
+  <string name="theme_installed_notification_title">%s installed</string>
+  <string name="theme_installed_notification_text">Theme successfully installed.</string>
   <!-- Note: These are for "themes", meaning multiple themes -->
+  <string name="themes_installed_notification_title">%d themes installed</string>
+  <string name="themes_installed_notification_text_one">%1$s and %2$d other installed.</string>
+  <string name="themes_installed_notification_text_other">%1$s and %2$d others installed.</string>
   <!-- Labels for each theme component card -->
+  <string name="statusbar_label">Status</string>
   <!-- Overflow menu -->
+  <string name="menu_customize">Customise</string>
   <!-- Shop themes -->
   <!-- Overlay titles -->
   <!-- TAG text -->
+  <string name="customized_tag_text">Customised</string>
   <!-- Labels for the customize/reset theme layout -->
+  <string name="customize_theme">Customise</string>
   <!-- Extra wallpaper components for selector -->
   <!-- Legacy themes -->
   <!-- Per app theming -->
