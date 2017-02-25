@@ -67,4 +67,5 @@
   <string name="read_external_permission_denied_message">Temaväljaren har inte tillgång till media och kan inte välja en bild just nu.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivera</string>
   <string name="get_more_app_not_available">Appen är inte tillgänglig</string>
+  <string name="new_feature_label">Ny</string>
 </resources>
