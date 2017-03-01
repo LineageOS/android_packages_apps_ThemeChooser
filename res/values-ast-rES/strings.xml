@@ -17,7 +17,6 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Seleutor de temes</string>
   <string name="font_preview_letters">AaBbḶḷḤḥ</string>
   <string name="theme_installed_notification_title">%s instaláu</string>
   <string name="theme_installed_notification_text">Tema instaláu correutamente.</string>

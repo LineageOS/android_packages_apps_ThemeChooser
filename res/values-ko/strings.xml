@@ -40,6 +40,7 @@
   <string name="notification_label">알림</string>
   <string name="ringtone_label">벨소리</string>
   <!-- Overflow menu -->
+  <string name="menu_customize">사용자 정의</string>
   <string name="menu_delete">삭제</string>
   <string name="menu_reset">테마 초기화</string>
   <!-- Shop themes -->
@@ -61,6 +62,7 @@
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">이미지 선택</string>
   <string name="wallpaper_none_title">없음</string>
+  <string name="mod_lock_title">MOD 잠금</string>
   <string name="processing_theme">처리중\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">%s은(는) 구 버전의 CM을 위한 테마입니다. 이 테마는 호환성에 문제를 발생시킬 수 있습니다.</string>
@@ -75,4 +77,5 @@
   <string name="enable_live_lock_screen_dialog_message">영상 잠금 화면에는 라이브 잠금 화면 기능이 필요합니다. 사용자는 잠금 화면 설정에서 라이브 잠금 화면 설정으로 변경할 수 있습니다.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">사용함</string>
   <string name="get_more_app_not_available">앱을 사용할 수 없음</string>
+  <string name="new_feature_label">신규</string>
 </resources>
