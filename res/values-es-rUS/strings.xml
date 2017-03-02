@@ -68,7 +68,7 @@
   <string name="legacy_theme_warning">AVISO: %s fue diseñado para una versión anterior de CM. Puedes experimentar problemas de compatibilidad con este tema.</string>
   <!-- Per app theming -->
   <string name="per_app_theming_title">Aplicación de temas</string>
-  <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema eliminará cualquier personalización previa de la aplicación de temas.</string>
+  <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema quitará cualquier personalización previa de la aplicación de temas.</string>
   <string name="per_app_theme_applying">El tema está aplicándose</string>
   <string name="per_app_theme_app_not_overlaid_warning">El tema es incompatible con esta aplicación, algunos elementos no pueden cambiarse.</string>
   <string name="read_external_permission_denied_message">El selector de temas no puede acceder al almacenamiento y es incapaz de escoger una imagen en este momento.</string>
