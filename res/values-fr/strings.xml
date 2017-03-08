@@ -40,6 +40,7 @@
   <string name="notification_label">Notification</string>
   <string name="ringtone_label">Sonnerie</string>
   <!-- Overflow menu -->
+  <string name="menu_customize">Personnaliser</string>
   <string name="menu_delete">Supprimer</string>
   <string name="menu_reset">Réinitialiser le thème</string>
   <!-- Shop themes -->
@@ -61,6 +62,7 @@
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">Choisir une image</string>
   <string name="wallpaper_none_title">Aucun</string>
+  <string name="mod_lock_title">Verrouillage MOD</string>
   <string name="processing_theme">Traitement\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">REMARQUE : %s a été conçu pour une version plus ancienne de CM. Vous pourrez rencontrer des problèmes de compatibilité avec ce thème.</string>
@@ -75,4 +77,5 @@
   <string name="enable_live_lock_screen_dialog_message">Les écrans de verrouillage animés requièrent la fonctionnalité Écran de verrouillage animé. Vous pouvez changer cela plus tard en ouvrant les paramètres et en vous rendant sur la page Écran de verrouillage animé sous les options Écran de verrouillage.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Activer</string>
   <string name="get_more_app_not_available">Application non disponible</string>
+  <string name="new_feature_label">Nouveau</string>
 </resources>

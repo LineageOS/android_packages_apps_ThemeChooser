@@ -25,12 +25,30 @@
   <string name="themes_installed_notification_title">%d themes installed</string>
   <string name="themes_installed_notification_text_one">%1$s and %2$d other installed.</string>
   <string name="themes_installed_notification_text_other">%1$s and %2$d others installed.</string>
+  <string name="font_component_item_text">Aa</string>
   <!-- Labels for each theme component card -->
+  <string name="icon_label">Icons</string>
+  <string name="font_label">Fonts</string>
   <string name="statusbar_label">Status</string>
+  <string name="navbar_label">Navigation</string>
+  <string name="wallpaper_label">Wallpaper</string>
+  <string name="lockscreen_label">Lockscreen wallpaper</string>
+  <string name="live_lock_screen_label">Live lock screen</string>
+  <string name="style_label">Controls</string>
+  <string name="boot_animation_label">Boot animation</string>
+  <string name="alarm_label">Alarm</string>
+  <string name="notification_label">Notification</string>
+  <string name="ringtone_label">Ringtone</string>
   <!-- Overflow menu -->
   <string name="menu_customize">Customise</string>
+  <string name="menu_delete">Delete</string>
+  <string name="menu_reset">Reset theme</string>
   <!-- Shop themes -->
+  <string name="shop_themes">Shop themes</string>
   <!-- Overlay titles -->
+  <string name="apply_theme_overlay_title">Apply</string>
+  <string name="delete_theme_overlay_title">Delete</string>
+  <string name="reset_theme_overlay_title">Reset</string>
   <!-- TAG text -->
   <string name="customized_tag_text">Customised</string>
   <!-- Labels for the customize/reset theme layout -->

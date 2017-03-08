@@ -17,14 +17,33 @@
      limitations under the License.
  -->
 <resources>
+  <string name="app_name">Seleutor de temes</string>
+  <string name="font_preview_letters">AaÉéÜüÑñḶḷḤḥ</string>
   <!-- Note: These are for "themes", meaning multiple themes -->
+  <string name="themes_installed_notification_title">%d temes instalaos</string>
   <!-- Labels for each theme component card -->
+  <string name="icon_label">Iconos</string>
+  <string name="font_label">Fontes</string>
+  <string name="statusbar_label">Estáu</string>
+  <string name="navbar_label">Navegación</string>
+  <string name="wallpaper_label">Fondu de pantalla</string>
+  <string name="style_label">Controles</string>
+  <string name="alarm_label">Alarma</string>
+  <string name="notification_label">Avisu</string>
   <!-- Overflow menu -->
+  <string name="menu_delete">Desaniciar</string>
   <!-- Shop themes -->
+  <string name="shop_themes">Mercar temes</string>
   <!-- Overlay titles -->
+  <string name="apply_theme_overlay_title">Aplicar</string>
+  <string name="delete_theme_overlay_title">Desaniciar</string>
   <!-- TAG text -->
   <!-- Labels for the customize/reset theme layout -->
   <!-- Extra wallpaper components for selector -->
+  <string name="wallpaper_external_title">Escoyer imaxe</string>
+  <string name="processing_theme">Procesando\u2026</string>
   <!-- Legacy themes -->
   <!-- Per app theming -->
+  <string name="per_app_theme_applying">Ta aplicándose\'l to tema</string>
+  <string name="get_more_app_not_available">L\'aplicación nun ta disponible</string>
 </resources>
