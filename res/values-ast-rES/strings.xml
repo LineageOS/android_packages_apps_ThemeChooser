@@ -30,6 +30,7 @@
   <string name="style_label">Controles</string>
   <string name="alarm_label">Alarma</string>
   <string name="notification_label">Avisu</string>
+  <string name="ringtone_label">Timbre</string>
   <!-- Overflow menu -->
   <string name="menu_delete">Desaniciar</string>
   <!-- Shop themes -->
