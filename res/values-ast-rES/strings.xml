@@ -19,15 +19,23 @@
 <resources>
   <string name="app_name">Seleutor de temes</string>
   <string name="font_preview_letters">AaÉéÜüÑñḶḷḤḥ</string>
+  <string name="theme_installed_notification_title">%s instaláu</string>
+  <string name="theme_installed_notification_text">Tema instaláu correutamente.</string>
   <!-- Note: These are for "themes", meaning multiple themes -->
   <string name="themes_installed_notification_title">%d temes instalaos</string>
+  <string name="themes_installed_notification_text_one">%1$s y %2$d más instaláu.</string>
+  <string name="themes_installed_notification_text_other">%1$s y otros %2$d instalaos.</string>
+  <string name="font_component_item_text">Aa</string>
   <!-- Labels for each theme component card -->
   <string name="icon_label">Iconos</string>
   <string name="font_label">Fontes</string>
   <string name="statusbar_label">Estáu</string>
   <string name="navbar_label">Navegación</string>
   <string name="wallpaper_label">Fondu de pantalla</string>
+  <string name="lockscreen_label">Fondu de pantalla de bloquéu</string>
+  <string name="live_lock_screen_label">Pantalla de bloquéu animada</string>
   <string name="style_label">Controles</string>
+  <string name="boot_animation_label">Animación d\'arranque</string>
   <string name="alarm_label">Alarma</string>
   <string name="notification_label">Avisu</string>
   <string name="ringtone_label">Timbre</string>
