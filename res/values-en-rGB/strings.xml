@@ -77,4 +77,5 @@
   <string name="enable_live_lock_screen_dialog_message">Animated lock screens require the Live lock screen feature. You can change this later by opening Settings and visiting the Live lock screen page under Lock screen options.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Enable</string>
   <string name="get_more_app_not_available">App not available</string>
+  <string name="new_feature_label">New</string>
 </resources>

@@ -33,12 +33,14 @@
   <string name="navbar_label">Navigation</string>
   <string name="wallpaper_label">Wallpaper</string>
   <string name="lockscreen_label">Lockscreen wallpaper</string>
+  <string name="live_lock_screen_label">Rotate lock screen</string>
   <string name="style_label">Controls</string>
   <string name="boot_animation_label">Boot animation</string>
   <string name="alarm_label">Alarm</string>
   <string name="notification_label">Notification</string>
   <string name="ringtone_label">Ringtone</string>
   <!-- Overflow menu -->
+  <string name="menu_customize">Customise</string>
   <string name="menu_delete">Delete</string>
   <string name="menu_reset">Reset theme</string>
   <!-- Shop themes -->
@@ -60,6 +62,7 @@
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">Pick image</string>
   <string name="wallpaper_none_title">None</string>
+  <string name="mod_lock_title">MOD Lock</string>
   <string name="processing_theme">Processing\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">NOTE: %s was designed for an older version of CM. You may experience compatibility issues with this theme.</string>
@@ -68,5 +71,11 @@
   <string name="per_app_theme_removal_warning">NOTE: Applying a new theme will remove any app theme customizations.</string>
   <string name="per_app_theme_applying">Your theme is being applied</string>
   <string name="per_app_theme_app_not_overlaid_warning">Theme does not support this app, some elements may not change.</string>
+  <string name="read_external_permission_denied_message">Theme Chooser cannot access media and is unable to pick an image at this time.</string>
+  <string name="animated_lock_screen_badge_text">Anim</string>
+  <string name="enable_live_lock_screen_dialog_title">Enable Live lock screen</string>
+  <string name="enable_live_lock_screen_dialog_message">Animated lock screens require the Live lock screen feature. You can change this later by opening Settings and visiting the Live lock screen page under Lock screen options.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Enable</string>
   <string name="get_more_app_not_available">App not available</string>
+  <string name="new_feature_label">New</string>
 </resources>

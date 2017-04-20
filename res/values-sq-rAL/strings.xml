@@ -17,14 +17,57 @@
      limitations under the License.
  -->
 <resources>
+  <string name="app_name">Perzgjedhësi i Temave</string>
+  <string name="font_preview_letters">AaBbCcDd</string>
+  <string name="theme_installed_notification_title">%s e instaluar</string>
+  <string name="theme_installed_notification_text">Tema u instalua me sukses.</string>
   <!-- Note: These are for "themes", meaning multiple themes -->
+  <string name="themes_installed_notification_title">%d tema të instaluara</string>
+  <string name="themes_installed_notification_text_one">%1$s dhe %2$d e instaluar.</string>
+  <string name="themes_installed_notification_text_other">%1$s dhe %2$d të tjera të instaluara.</string>
+  <string name="font_component_item_text">Aa</string>
   <!-- Labels for each theme component card -->
+  <string name="icon_label">Ikonat</string>
+  <string name="font_label">Komplet Gërmash</string>
+  <string name="statusbar_label">Statusi</string>
+  <string name="navbar_label">Lundrimi</string>
+  <string name="wallpaper_label">Sfondi</string>
+  <string name="lockscreen_label">Sfondi i ekranit bllokues</string>
+  <string name="live_lock_screen_label">Ekran bllokues i animuar</string>
+  <string name="boot_animation_label">Animacioni i ndezjes</string>
+  <string name="alarm_label">Alarmi</string>
+  <string name="notification_label">Njoftimet</string>
+  <string name="ringtone_label">Zilja</string>
   <!-- Overflow menu -->
+  <string name="menu_customize">Personalizo</string>
+  <string name="menu_delete">Fshi</string>
   <!-- Shop themes -->
+  <string name="shop_themes">Bli tema</string>
   <!-- Overlay titles -->
+  <string name="apply_theme_overlay_title">Apliko</string>
+  <string name="delete_theme_overlay_title">Fshi</string>
   <!-- TAG text -->
+  <string name="customized_tag_text">E personalizuar</string>
+  <string name="updated_tag_text">E përditësuar</string>
+  <string name="add_component_text">Shto</string>
+  <string name="wallpaper_none">Asnjë</string>
+  <string name="audible_title_none">Asnjë</string>
   <!-- Labels for the customize/reset theme layout -->
+  <string name="customize_theme">Personalizo</string>
   <!-- Extra wallpaper components for selector -->
+  <string name="wallpaper_external_title">Zgjidh imazhin</string>
+  <string name="wallpaper_none_title">Asnjë</string>
+  <string name="mod_lock_title">Bllokimi MOD</string>
+  <string name="processing_theme">Duke përpunuar\u2026</string>
   <!-- Legacy themes -->
+  <string name="legacy_theme_warning">SHËNIM: %s është dizenjuar për një version më të vjetër të CM. Për këtë arsye ju mund të hasni probleme me këtë temë.</string>
   <!-- Per app theming -->
+  <string name="per_app_theme_removal_warning">SHËNIM: Aplikimi i një teme të re do të heqë të gjitha personalizimet e temës së aplikacionit.</string>
+  <string name="per_app_theme_applying">Tema juaj po aplikohet</string>
+  <string name="per_app_theme_app_not_overlaid_warning">Tema nuk e suporton dot këtë aplikacion. Disa elementë mund të mos ndryshojnë.</string>
+  <string name="read_external_permission_denied_message">Përzgjedhësi i Temave nuk mund të aksesojë dot median dhe për këtë arsye nuk mund të zgjedhë dot një imazh.</string>
+  <string name="enable_live_lock_screen_dialog_title">Aktivizo ekranin bllokues të animuar</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivizo</string>
+  <string name="get_more_app_not_available">Aplikacioni nuk është i disponueshëm</string>
+  <string name="new_feature_label">I ri</string>
 </resources>
