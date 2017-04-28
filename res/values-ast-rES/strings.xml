@@ -18,7 +18,7 @@
  -->
 <resources>
   <string name="app_name">Seleutor de temes</string>
-  <string name="font_preview_letters">AaBbḶḷḤḥ</string>
+  <string name="font_preview_letters">AaÉéÜüÑñḶḷḤḥ</string>
   <string name="theme_installed_notification_title">%s instaláu</string>
   <string name="theme_installed_notification_text">Tema instaláu correutamente.</string>
   <!-- Note: These are for "themes", meaning multiple themes -->
@@ -37,41 +37,22 @@
   <string name="style_label">Controles</string>
   <string name="boot_animation_label">Animación d\'arranque</string>
   <string name="alarm_label">Alarma</string>
-  <string name="notification_label">Notificación</string>
-  <string name="ringtone_label">Tonu de llamada</string>
+  <string name="notification_label">Avisu</string>
+  <string name="ringtone_label">Timbre</string>
   <!-- Overflow menu -->
   <string name="menu_delete">Desaniciar</string>
-  <string name="menu_reset">Reafitar tema</string>
   <!-- Shop themes -->
   <string name="shop_themes">Mercar temes</string>
   <!-- Overlay titles -->
   <string name="apply_theme_overlay_title">Aplicar</string>
   <string name="delete_theme_overlay_title">Desaniciar</string>
-  <string name="reset_theme_overlay_title">Reafitar</string>
   <!-- TAG text -->
-  <string name="default_tag_text">Por defeutu</string>
-  <string name="customized_tag_text">Personalizáu</string>
-  <string name="updated_tag_text">Anováu</string>
-  <string name="add_component_text">Amestar</string>
-  <string name="wallpaper_none">Nengún</string>
-  <string name="audible_title_none">Nengún</string>
   <!-- Labels for the customize/reset theme layout -->
-  <string name="reset_theme">Reafitar</string>
-  <string name="customize_theme">Personalizar</string>
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">Escoyer imaxe</string>
-  <string name="wallpaper_none_title">Nengún</string>
   <string name="processing_theme">Procesando\u2026</string>
   <!-- Legacy themes -->
-  <string name="legacy_theme_warning">NOTA: %s diseñóse pa una versión más vieya de CM. Podríes sufrir problemes de compatibilidá con esti tema.</string>
   <!-- Per app theming -->
-  <string name="per_app_theme_removal_warning">NOTA: L\'aplique d\'un tema nuevu desaniciará cualesquier personalizaciones de tema.</string>
   <string name="per_app_theme_applying">Ta aplicándose\'l to tema</string>
-  <string name="per_app_theme_app_not_overlaid_warning">El to tema nun sofita esta app, dellos elementos podríen nun camudar.</string>
-  <string name="read_external_permission_denied_message">El seleutor de temes nun pue acceder a la multimedia y nun ye a escoyer una imaxe nesti momentu.</string>
-  <string name="animated_lock_screen_badge_text">Animada</string>
-  <string name="enable_live_lock_screen_dialog_title">Habilitar pantalla de bloquéu animada</string>
-  <string name="enable_live_lock_screen_dialog_message">Les pantalles de bloquéu animaes riquen activada la so función. Pues camudar esto más sero abriendo Axustes y visitando la páxina de Pantalla de bloquéu animada so Opciones de pantalla de bloquéu.</string>
-  <string name="enable_live_lock_screen_dialog_positive_btn_text">Habilitar</string>
   <string name="get_more_app_not_available">L\'aplicación nun ta disponible</string>
 </resources>

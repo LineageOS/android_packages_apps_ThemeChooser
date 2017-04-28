@@ -62,10 +62,10 @@
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">選擇圖片</string>
   <string name="wallpaper_none_title">無</string>
-  <string name="mod_lock_title">模組鎖</string>
+  <string name="mod_lock_title">MOD 鎖</string>
   <string name="processing_theme">處理中\u2026</string>
   <!-- Legacy themes -->
-  <string name="legacy_theme_warning">注意：%s是設計給較舊版本的CM使用，使用這個主題可能會遇到相容性問題。</string>
+  <string name="legacy_theme_warning">注意：%s 是設計給較舊版本的 CM 使用，使用這個主題可能會遇到相容性問題。</string>
   <!-- Per app theming -->
   <string name="per_app_theming_title">應用程式主題設定工具</string>
   <string name="per_app_theme_removal_warning">注意：套用新主題將移除所有應用程式主題自訂設定。</string>

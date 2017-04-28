@@ -50,7 +50,7 @@
   <string name="delete_theme_overlay_title">Borrar</string>
   <string name="reset_theme_overlay_title">Restablecer</string>
   <!-- TAG text -->
-  <string name="default_tag_text">Predeterminado</string>
+  <string name="default_tag_text">Predefinido</string>
   <string name="customized_tag_text">Personalizado</string>
   <string name="updated_tag_text">Actualizado</string>
   <string name="add_component_text">Añadir</string>
@@ -68,13 +68,13 @@
   <string name="legacy_theme_warning">AVISO: %s fue diseñado para una versión anterior de CM. Puedes experimentar problemas de compatibilidad con este tema.</string>
   <!-- Per app theming -->
   <string name="per_app_theming_title">Aplicación de temas</string>
-  <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema eliminará cualquier personalización previa de la aplicación de temas.</string>
+  <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema quitará cualquier personalización previa de la aplicación de temas.</string>
   <string name="per_app_theme_applying">El tema está aplicándose</string>
   <string name="per_app_theme_app_not_overlaid_warning">El tema es incompatible con esta aplicación, algunos elementos no pueden cambiarse.</string>
   <string name="read_external_permission_denied_message">El selector de temas no puede acceder al almacenamiento y es incapaz de escoger una imagen en este momento.</string>
   <string name="animated_lock_screen_badge_text">Animado</string>
   <string name="enable_live_lock_screen_dialog_title">Activar pantalla de bloqueo animada</string>
-  <string name="enable_live_lock_screen_dialog_message">Las pantallas de bloqueo animadas necesitan la función de pantalla de bloqueo directo. Puedes cambiar esto más tarde en Ajustes al visitar la página de opciones de pantalla de bloqueo.</string>
+  <string name="enable_live_lock_screen_dialog_message">Las pantallas de bloqueo animadas necesitan la función de pantalla de bloqueo directo. Puedes cambiar esto más tarde en los Ajustes al visitar la página de opciones de pantalla de bloqueo.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Activar</string>
   <string name="get_more_app_not_available">Aplicación no disponible</string>
   <string name="new_feature_label">Nuevo</string>

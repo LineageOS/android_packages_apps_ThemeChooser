@@ -31,6 +31,7 @@
   <string name="statusbar_label">Status</string>
   <string name="navbar_label">Navigering</string>
   <string name="wallpaper_label">Bakgrundsbild</string>
+  <string name="lockscreen_label">Bakgrundsbild för låsskärm</string>
   <string name="live_lock_screen_label">Levande låsskärm</string>
   <string name="style_label">Kontroller</string>
   <string name="boot_animation_label">Uppstartsanimation</string>
@@ -38,6 +39,7 @@
   <string name="notification_label">Avisering</string>
   <string name="ringtone_label">Ringsignal</string>
   <!-- Overflow menu -->
+  <string name="menu_customize">Anpassa</string>
   <string name="menu_delete">Ta bort</string>
   <string name="menu_reset">Återställ tema</string>
   <!-- Shop themes -->
@@ -67,4 +69,5 @@
   <string name="read_external_permission_denied_message">Temaväljaren har inte tillgång till media och kan inte välja en bild just nu.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivera</string>
   <string name="get_more_app_not_available">Appen är inte tillgänglig</string>
+  <string name="new_feature_label">Ny</string>
 </resources>

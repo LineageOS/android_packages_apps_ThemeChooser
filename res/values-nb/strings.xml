@@ -69,7 +69,7 @@
   <!-- Per app theming -->
   <string name="per_app_theming_title">App Themer</string>
   <string name="per_app_theme_removal_warning">Merk: Nye temaer vil fjerne tilpasninger av app tema.</string>
-  <string name="per_app_theme_applying">Temaet brukes</string>
+  <string name="per_app_theme_applying">Temaet settes opp</string>
   <string name="per_app_theme_app_not_overlaid_warning">Temaet støtter ikke denne appen, noen elementer kan ikke endres.</string>
   <string name="read_external_permission_denied_message">Tema Velgeren får ikke tilgang til medier og kan ikke velge et bilde på dette tidspunktet.</string>
   <string name="animated_lock_screen_badge_text">Anim</string>
