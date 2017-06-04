@@ -62,6 +62,7 @@
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">Wybierz obraz</string>
   <string name="wallpaper_none_title">Brak</string>
+  <string name="mod_lock_title">Blokada MOD</string>
   <string name="processing_theme">Przetwarzanie\u2026</string>
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">UWAGA: %s został zaprojektowany dla starszej wersji CM. Mogą wystąpić problemy z kompatybilnością tego motywu.</string>
