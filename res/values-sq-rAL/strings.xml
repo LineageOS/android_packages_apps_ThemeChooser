@@ -64,7 +64,7 @@
   <!-- Per app theming -->
   <string name="per_app_theme_removal_warning">SHËNIM: Aplikimi i një teme të re do të heqë të gjitha personalizimet e temës së aplikacionit.</string>
   <string name="per_app_theme_applying">Tema juaj po aplikohet</string>
-  <string name="per_app_theme_app_not_overlaid_warning">Tema nuk e suporton dot këtë aplikacion. Disa elementë mund të mos ndryshojnë.</string>
+  <string name="per_app_theme_app_not_overlaid_warning">Tema nuk e mbështet këtë aplikacion. Disa elementë mund të mos ndryshojnë.</string>
   <string name="read_external_permission_denied_message">Përzgjedhësi i Temave nuk mund të aksesojë dot median dhe për këtë arsye nuk mund të zgjedhë dot një imazh.</string>
   <string name="enable_live_lock_screen_dialog_title">Aktivizo ekranin bllokues të animuar</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivizo</string>
