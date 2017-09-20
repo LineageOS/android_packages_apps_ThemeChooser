@@ -42,13 +42,13 @@
   <!-- Overflow menu -->
   <string name="menu_customize">Personalizar</string>
   <string name="menu_delete">Eliminar</string>
-  <string name="menu_reset">Restaurar o tema</string>
+  <string name="menu_reset">Repor o tema</string>
   <!-- Shop themes -->
   <string name="shop_themes">Loja de temas</string>
   <!-- Overlay titles -->
   <string name="apply_theme_overlay_title">Aplicar</string>
   <string name="delete_theme_overlay_title">Eliminar</string>
-  <string name="reset_theme_overlay_title">Restaurar</string>
+  <string name="reset_theme_overlay_title">Repor</string>
   <!-- TAG text -->
   <string name="default_tag_text">Padrão</string>
   <string name="customized_tag_text">Personalizado</string>
@@ -57,7 +57,7 @@
   <string name="wallpaper_none">Nenhuma</string>
   <string name="audible_title_none">Nenhum</string>
   <!-- Labels for the customize/reset theme layout -->
-  <string name="reset_theme">Restaurar</string>
+  <string name="reset_theme">Repor</string>
   <string name="customize_theme">Personalizar</string>
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">Escolher imagem</string>
