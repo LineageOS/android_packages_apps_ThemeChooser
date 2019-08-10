@@ -17,14 +17,55 @@
      limitations under the License.
  -->
 <resources>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <!-- Labels for each theme component card -->
-  <!-- Overflow menu -->
-  <!-- Shop themes -->
-  <!-- Overlay titles -->
-  <!-- TAG text -->
-  <!-- Labels for the customize/reset theme layout -->
-  <!-- Extra wallpaper components for selector -->
-  <!-- Legacy themes -->
-  <!-- Per app theming -->
+    <string name="app_name">Dewisydd Thema</string>
+    <string name="font_preview_letters">AaBbCc</string>
+    <string name="theme_installed_notification_title">%s wedi\'u gosod</string>
+    <string name="theme_installed_notification_text">Gosodwyd y thema yn llwyddiannus.</string>
+    <string name="themes_installed_notification_title">%d themâu wedi\'u gosod</string>
+    <string name="themes_installed_notification_text_one">%1$s a %2$d arall wedi\'u gosod.</string>
+    <string name="themes_installed_notification_text_other">%1$s a %2$d arall wedi\'u gosod.</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">Eiconau</string>
+    <string name="font_label">Ffontiau</string>
+    <string name="statusbar_label">Statws</string>
+    <string name="navbar_label">Llywio</string>
+    <string name="wallpaper_label">Papur wal</string>
+    <string name="lockscreen_label">Papur wal y sgrin cloi</string>
+    <string name="live_lock_screen_label">Sgrin cloi byw</string>
+    <string name="style_label">Rheolaeth</string>
+    <string name="boot_animation_label">Animeiddiad wrth lwytho</string>
+    <string name="alarm_label">Larwm</string>
+    <string name="notification_label">Hysbysiad</string>
+    <string name="ringtone_label">Tôn caniad</string>
+    <string name="menu_customize">Addasu</string>
+    <string name="menu_delete">Dileu</string>
+    <string name="menu_reset">Ailosod thema</string>
+    <string name="shop_themes">Siopa themâu</string>
+    <string name="apply_theme_overlay_title">Gosod</string>
+    <string name="delete_theme_overlay_title">Dileu</string>
+    <string name="reset_theme_overlay_title">Ailosod</string>
+    <string name="default_tag_text">Rhagosodiad</string>
+    <string name="customized_tag_text">Addasedig</string>
+    <string name="updated_tag_text">Diweddarwyd</string>
+    <string name="add_component_text">Ychwanegu</string>
+    <string name="wallpaper_none">Dim</string>
+    <string name="audible_title_none">Dim</string>
+    <string name="reset_theme">Ailosod</string>
+    <string name="customize_theme">Addasu</string>
+    <string name="wallpaper_external_title">Dewisa ddelwedd</string>
+    <string name="wallpaper_none_title">Dim</string>
+    <string name="mod_lock_title">Clo MOD</string>
+    <string name="processing_theme">Yn prosesu\u2026</string>
+    <string name="legacy_theme_warning">NODYN: Dyluniwyd %s ar gyfer fersiwn cynharach o LineageOS neu CyanogenMod. Mae\'n bosib y bydd rhai problemau cytunedd gyda\'r thema hon.</string>
+    <string name="per_app_theming_title">Themäwr apiau</string>
+    <string name="per_app_theme_removal_warning">NODYN: Bydd gosod thema newydd yn tynnu unrhyw addasiadau i thema\'r ap.</string>
+    <string name="per_app_theme_applying">Mae dy thema yn cael ei rhoi ar waith</string>
+    <string name="per_app_theme_app_not_overlaid_warning">Dyw\'r thema ddim yn cefnogi\'r ap hwn; gall rhai elfennau ymddangos yr un fath.</string>
+    <string name="read_external_permission_denied_message">Ni all y Dewisydd Thema cael mynediad at gyfryngau i ddewis delwedd ar hyn o bryd.</string>
+    <string name="animated_lock_screen_badge_text">Anim</string>
+    <string name="enable_live_lock_screen_dialog_title">Galluogi sgrin cloi byw</string>
+    <string name="enable_live_lock_screen_dialog_message">Mae ar sgriniau cloi animeiddiedig angen y nodwedd sgrin cloi byw. Gellir newydd hyn yn hwyrach wrth agor Gosodiadau a gweld y dudalen sgrin cloi dan ddewisiadau sgrin cloi.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Galluogi</string>
+    <string name="get_more_app_not_available">Ap ddim ar gael</string>
+    <string name="new_feature_label">Newydd</string>
 </resources>

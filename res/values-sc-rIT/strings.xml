@@ -17,14 +17,20 @@
      limitations under the License.
  -->
 <resources>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <!-- Labels for each theme component card -->
-  <!-- Overflow menu -->
-  <!-- Shop themes -->
-  <!-- Overlay titles -->
-  <!-- TAG text -->
-  <!-- Labels for the customize/reset theme layout -->
-  <!-- Extra wallpaper components for selector -->
-  <!-- Legacy themes -->
-  <!-- Per app theming -->
+    <string name="navbar_label">Navigatzione</string>
+    <string name="alarm_label">Isvèllia</string>
+    <string name="notification_label">Notìfica</string>
+    <string name="ringtone_label">Soneria</string>
+    <string name="menu_customize">Personaliza</string>
+    <string name="menu_delete">Iscantzella</string>
+    <string name="delete_theme_overlay_title">Iscantzella</string>
+    <string name="reset_theme_overlay_title">Reseta</string>
+    <string name="default_tag_text">Predefinidu</string>
+    <string name="add_component_text">Agiunghe</string>
+    <string name="wallpaper_none">Nudda</string>
+    <string name="audible_title_none">Nudda</string>
+    <string name="reset_theme">Reseta</string>
+    <string name="customize_theme">Personaliza</string>
+    <string name="wallpaper_none_title">Nudda</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Abìlita</string>
 </resources>

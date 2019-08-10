@@ -17,62 +17,55 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">اختيار السمة</string>
-  <string name="font_preview_letters">AaBbCcDd</string>
-  <string name="theme_installed_notification_title">%s مثبت</string>
-  <string name="theme_installed_notification_text">تم تثبيت السمة بنجاح.</string>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <string name="themes_installed_notification_title">تم تثبيت %d سمات</string>
-  <string name="themes_installed_notification_text_one">تم تثبيت %1$s وسمة  أخرى %2$d .</string>
-  <string name="themes_installed_notification_text_other">تم تثبيت %1$s وسمات أخرى %2$d .</string>
-  <string name="font_component_item_text">Aa</string>
-  <!-- Labels for each theme component card -->
-  <string name="icon_label">الأيقونات</string>
-  <string name="font_label">الخطوط</string>
-  <string name="statusbar_label">الحالة</string>
-  <string name="navbar_label">التنقل</string>
-  <string name="wallpaper_label">الخلفية</string>
-  <string name="lockscreen_label">خلفيات شاشة القفل </string>
-  <string name="live_lock_screen_label">شاشة التأمين المباشر</string>
-  <string name="style_label">عناصر التحكم</string>
-  <string name="boot_animation_label">الرسوم المتحركة في التشغيل</string>
-  <string name="alarm_label">تنبيه</string>
-  <string name="notification_label">الإشعار</string>
-  <string name="ringtone_label">نغمة رنين</string>
-  <!-- Overflow menu -->
-  <string name="menu_delete">حذف</string>
-  <string name="menu_reset">إعادة تعيين السمة</string>
-  <!-- Shop themes -->
-  <string name="shop_themes">شراء سمات</string>
-  <!-- Overlay titles -->
-  <string name="apply_theme_overlay_title">تطبيق</string>
-  <string name="delete_theme_overlay_title">حذف</string>
-  <string name="reset_theme_overlay_title">إعادة تعيين</string>
-  <!-- TAG text -->
-  <string name="default_tag_text">الافتراضي</string>
-  <string name="customized_tag_text">مخصص</string>
-  <string name="updated_tag_text">محدث</string>
-  <string name="add_component_text">إضافة</string>
-  <string name="wallpaper_none">لا شيء</string>
-  <string name="audible_title_none">لا شيء</string>
-  <!-- Labels for the customize/reset theme layout -->
-  <string name="reset_theme">إعادة تعيين</string>
-  <string name="customize_theme">تخصيص</string>
-  <!-- Extra wallpaper components for selector -->
-  <string name="wallpaper_external_title">اختر صورة</string>
-  <string name="wallpaper_none_title">لا شيء</string>
-  <string name="processing_theme">جاري المعالجة</string>
-  <!-- Legacy themes -->
-  <string name="legacy_theme_warning">ملاحظة: صممت %s لإصدار قديم من CM. قد تواجهك مشكلات في التوافق مع هذه السمة.</string>
-  <!-- Per app theming -->
-  <string name="per_app_theming_title">محدد سمات التطبيق</string>
-  <string name="per_app_theme_removal_warning">ملاحظة: تطبيق سمة جديدة سيؤدي إلى إزالة أية تخصيصات سمات التطبيق.</string>
-  <string name="per_app_theme_applying">جاري تطبيق سمتك</string>
-  <string name="per_app_theme_app_not_overlaid_warning">السمة لا تدعم هذا التطبيق، فبعض العناصر ربما لا تتغير.</string>
-  <string name="read_external_permission_denied_message">لا يمكن لأداة اختيار الموضوعات الوصول إلى الوسائط ولا يمكنها التقاط صورة في هذا الوقت.</string>
-  <string name="animated_lock_screen_badge_text">انيم</string>
-  <string name="enable_live_lock_screen_dialog_title">تمكين شاشة التأمين المباشر</string>
-  <string name="enable_live_lock_screen_dialog_message">تتطلب شاشات التأمين المتحركة ميزة شاشة التأمين المباشر. يمكنك تغيير هذا في وقت لاحق من خلال فتح إعدادات وزيارة صفحة شاشة التأمين المباشر تحت خيارات شاشة التأمين.</string>
-  <string name="enable_live_lock_screen_dialog_positive_btn_text">تمكين</string>
-  <string name="get_more_app_not_available">تطبيق غير متاح</string>
+    <string name="app_name">اختيار السمة</string>
+    <string name="font_preview_letters">AaBbCcDd</string>
+    <string name="theme_installed_notification_title">%s مثبت</string>
+    <string name="theme_installed_notification_text">تم تثبيت السمة بنجاح.</string>
+    <string name="themes_installed_notification_title">تم تثبيت %d سمات</string>
+    <string name="themes_installed_notification_text_one">تم تثبيت %1$s وسمة  أخرى %2$d .</string>
+    <string name="themes_installed_notification_text_other">تم تثبيت %1$s وسمات أخرى %2$d .</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">الأيقونات</string>
+    <string name="font_label">الخطوط</string>
+    <string name="statusbar_label">الحالة</string>
+    <string name="navbar_label">التنقل</string>
+    <string name="wallpaper_label">الخلفية</string>
+    <string name="lockscreen_label">خلفيات شاشة القفل </string>
+    <string name="live_lock_screen_label">شاشة التأمين المباشر</string>
+    <string name="style_label">عناصر التحكم</string>
+    <string name="boot_animation_label">الرسوم المتحركة في التشغيل</string>
+    <string name="alarm_label">تنبيه</string>
+    <string name="notification_label">الإشعار</string>
+    <string name="ringtone_label">نغمة رنين</string>
+    <string name="menu_customize">تخصيص</string>
+    <string name="menu_delete">حذف</string>
+    <string name="menu_reset">إعادة تعيين السمة</string>
+    <string name="shop_themes">شراء سمات</string>
+    <string name="apply_theme_overlay_title">تطبيق</string>
+    <string name="delete_theme_overlay_title">حذف</string>
+    <string name="reset_theme_overlay_title">إعادة تعيين</string>
+    <string name="default_tag_text">الافتراضي</string>
+    <string name="customized_tag_text">مخصص</string>
+    <string name="updated_tag_text">محدث</string>
+    <string name="add_component_text">إضافة</string>
+    <string name="wallpaper_none">لا شيء</string>
+    <string name="audible_title_none">لا شيء</string>
+    <string name="reset_theme">إعادة تعيين</string>
+    <string name="customize_theme">تخصيص</string>
+    <string name="wallpaper_external_title">اختر صورة</string>
+    <string name="wallpaper_none_title">لا شيء</string>
+    <string name="mod_lock_title">قفل MOD</string>
+    <string name="processing_theme">جاري المعالجة</string>
+    <string name="legacy_theme_warning">ملاحظة: صممت %s لإصدار قديم من CM. قد تواجهك مشكلات في التوافق مع هذه السمة.</string>
+    <string name="per_app_theming_title">محدد سمات التطبيق</string>
+    <string name="per_app_theme_removal_warning">ملاحظة: تطبيق سمة جديدة سيؤدي إلى إزالة أية تخصيصات سمات التطبيق.</string>
+    <string name="per_app_theme_applying">جاري تطبيق سمتك</string>
+    <string name="per_app_theme_app_not_overlaid_warning">السمة لا تدعم هذا التطبيق، فبعض العناصر ربما لا تتغير.</string>
+    <string name="read_external_permission_denied_message">لا يمكن لأداة اختيار الموضوعات الوصول إلى الوسائط ولا يمكنها التقاط صورة في هذا الوقت.</string>
+    <string name="animated_lock_screen_badge_text">انيم</string>
+    <string name="enable_live_lock_screen_dialog_title">تمكين شاشة التأمين المباشر</string>
+    <string name="enable_live_lock_screen_dialog_message">تتطلب شاشات التأمين المتحركة ميزة شاشة التأمين المباشر. يمكنك تغيير هذا في وقت لاحق من خلال فتح إعدادات وزيارة صفحة شاشة التأمين المباشر تحت خيارات شاشة التأمين.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">تمكين</string>
+    <string name="get_more_app_not_available">تطبيق غير متاح</string>
+    <string name="new_feature_label">جديد</string>
 </resources>

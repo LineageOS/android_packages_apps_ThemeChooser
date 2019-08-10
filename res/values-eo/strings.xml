@@ -17,18 +17,8 @@
      limitations under the License.
  -->
 <resources>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <!-- Labels for each theme component card -->
-  <!-- Overflow menu -->
-  <string name="menu_delete">Forigi</string>
-  <!-- Shop themes -->
-  <!-- Overlay titles -->
-  <string name="delete_theme_overlay_title">Forigi</string>
-  <!-- TAG text -->
-  <string name="add_component_text">Aldoni</string>
-  <!-- Labels for the customize/reset theme layout -->
-  <!-- Extra wallpaper components for selector -->
-  <!-- Legacy themes -->
-  <!-- Per app theming -->
-  <string name="new_feature_label">Nova</string>
+    <string name="menu_delete">Forigi</string>
+    <string name="delete_theme_overlay_title">Forigi</string>
+    <string name="add_component_text">Aldoni</string>
+    <string name="new_feature_label">Nova</string>
 </resources>

@@ -17,22 +17,12 @@
      limitations under the License.
  -->
 <resources>
-  <string name="theme_installed_notification_title">%s ස්ථාපිතයි</string>
-  <string name="theme_installed_notification_text">තේමාව සාර්ථක ලෙස ස්ථාපිතයි.</string>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <!-- Labels for each theme component card -->
-  <string name="icon_label">අයිකන</string>
-  <string name="font_label">ෆොන්ට</string>
-  <string name="alarm_label">ඇඟවීම</string>
-  <string name="notification_label">දැනුම්දීම</string>
-  <string name="ringtone_label">රින්ග්ටෝනය</string>
-  <!-- Overflow menu -->
-  <!-- Shop themes -->
-  <!-- Overlay titles -->
-  <string name="apply_theme_overlay_title">යොදන්න</string>
-  <!-- TAG text -->
-  <!-- Labels for the customize/reset theme layout -->
-  <!-- Extra wallpaper components for selector -->
-  <!-- Legacy themes -->
-  <!-- Per app theming -->
+    <string name="theme_installed_notification_title">%s ස්ථාපිතයි</string>
+    <string name="theme_installed_notification_text">තේමාව සාර්ථක ලෙස ස්ථාපිතයි.</string>
+    <string name="icon_label">අයිකන</string>
+    <string name="font_label">ෆොන්ට</string>
+    <string name="alarm_label">ඇඟවීම</string>
+    <string name="notification_label">දැනුම්දීම</string>
+    <string name="ringtone_label">රින්ග්ටෝනය</string>
+    <string name="apply_theme_overlay_title">යොදන්න</string>
 </resources>

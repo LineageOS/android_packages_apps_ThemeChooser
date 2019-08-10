@@ -17,23 +17,13 @@
      limitations under the License.
  -->
 <resources>
-  <string name="theme_installed_notification_title">%s uzstādīts</string>
-  <string name="theme_installed_notification_text">Tēma veiksmīgi uzstādīta.</string>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <!-- Labels for each theme component card -->
-  <string name="icon_label">Ikonas</string>
-  <string name="font_label">Fonti</string>
-  <string name="alarm_label">Modinātājs</string>
-  <string name="notification_label">Paziņojums</string>
-  <string name="ringtone_label">Zvana melodija</string>
-  <!-- Overflow menu -->
-  <!-- Shop themes -->
-  <!-- Overlay titles -->
-  <string name="apply_theme_overlay_title">Pielietot</string>
-  <!-- TAG text -->
-  <!-- Labels for the customize/reset theme layout -->
-  <!-- Extra wallpaper components for selector -->
-  <!-- Legacy themes -->
-  <!-- Per app theming -->
-  <string name="get_more_app_not_available">Lietotne nav pieejama</string>
+    <string name="theme_installed_notification_title">%s uzstādīts</string>
+    <string name="theme_installed_notification_text">Tēma veiksmīgi uzstādīta.</string>
+    <string name="icon_label">Ikonas</string>
+    <string name="font_label">Fonti</string>
+    <string name="alarm_label">Modinātājs</string>
+    <string name="notification_label">Paziņojums</string>
+    <string name="ringtone_label">Zvana melodija</string>
+    <string name="apply_theme_overlay_title">Pielietot</string>
+    <string name="get_more_app_not_available">Lietotne nav pieejama</string>
 </resources>

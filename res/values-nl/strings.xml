@@ -17,65 +17,55 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Themakiezer</string>
-  <string name="font_preview_letters">AaBbCcDd</string>
-  <string name="theme_installed_notification_title">%s geïnstalleerd</string>
-  <string name="theme_installed_notification_text">Thema installeren geslaagd.</string>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <string name="themes_installed_notification_title">%d thema\'s geïnstalleerd</string>
-  <string name="themes_installed_notification_text_one">%1$s en %2$d andere geïnstalleerd.</string>
-  <string name="themes_installed_notification_text_other">%1$s en %2$d andere geïnstalleerd.</string>
-  <string name="font_component_item_text">Aa</string>
-  <!-- Labels for each theme component card -->
-  <string name="icon_label">Pictogrammen</string>
-  <string name="font_label">Lettertypen</string>
-  <string name="statusbar_label">Status</string>
-  <string name="navbar_label">Navigatie</string>
-  <string name="wallpaper_label">Achtergrond</string>
-  <string name="lockscreen_label">Achtergrond vergrendelingsscherm</string>
-  <string name="live_lock_screen_label">Geanimeerd vergrendelingsscherm</string>
-  <string name="style_label">Besturingselementen</string>
-  <string name="boot_animation_label">Opstartanimatie</string>
-  <string name="alarm_label">Alarm</string>
-  <string name="notification_label">Melding</string>
-  <string name="ringtone_label">Beltoon</string>
-  <!-- Overflow menu -->
-  <string name="menu_customize">Aanpassen</string>
-  <string name="menu_delete">Verwijderen</string>
-  <string name="menu_reset">Thema opnieuw instellen</string>
-  <!-- Shop themes -->
-  <string name="shop_themes">Thema\'s kopen</string>
-  <!-- Overlay titles -->
-  <string name="apply_theme_overlay_title">Toepassen</string>
-  <string name="delete_theme_overlay_title">Verwijderen</string>
-  <string name="reset_theme_overlay_title">Opnieuw instellen</string>
-  <!-- TAG text -->
-  <string name="default_tag_text">Standaard</string>
-  <string name="customized_tag_text">Aangepast</string>
-  <string name="updated_tag_text">Bijgewerkt</string>
-  <string name="add_component_text">Toevoegen</string>
-  <string name="wallpaper_none">Geen</string>
-  <string name="audible_title_none">Geen</string>
-  <!-- Labels for the customize/reset theme layout -->
-  <string name="reset_theme">Opnieuw instellen</string>
-  <string name="customize_theme">Aanpassen</string>
-  <!-- Extra wallpaper components for selector -->
-  <string name="wallpaper_external_title">Afbeelding kiezen</string>
-  <string name="wallpaper_none_title">Geen</string>
-  <string name="mod_lock_title">MOD Vergrendeling</string>
-  <string name="processing_theme">Verwerken\u2026</string>
-  <!-- Legacy themes -->
-  <string name="legacy_theme_warning">Let op: %s is ontworpen voor een oudere versie van CM. Er kunnen compatibiliteitsproblemen optreden bij het gebruik van dit thema.</string>
-  <!-- Per app theming -->
-  <string name="per_app_theming_title">App-thema\'s</string>
-  <string name="per_app_theme_removal_warning">Let op: Toepassen van een nieuw thema zal alle aanpassingen van het app-thema verwijderen.</string>
-  <string name="per_app_theme_applying">Uw thema wordt toegepast</string>
-  <string name="per_app_theme_app_not_overlaid_warning">Het thema ondersteunt deze app niet. Enkele elementen kunnen ongewijzigd blijven.</string>
-  <string name="read_external_permission_denied_message">Themakiezer kan geen toegang tot media krijgen en is nu niet in staat een afbeelding te kiezen.</string>
-  <string name="animated_lock_screen_badge_text">Geanimeerd</string>
-  <string name="enable_live_lock_screen_dialog_title">Geanimeerd vergrendelingsscherm inschakelen</string>
-  <string name="enable_live_lock_screen_dialog_message">Geanimeerde vergrendelingsschermen vereisen de functie \"Geanimeerd vergrendelingsscherm\". U kunt dit wijzigen door in de instellingen van vergrendelingsscherm naar de geanimeerd vergrendelingsscherm-pagina te gaan.</string>
-  <string name="enable_live_lock_screen_dialog_positive_btn_text">Inschakelen</string>
-  <string name="get_more_app_not_available">App niet beschikbaar</string>
-  <string name="new_feature_label">Nieuw</string>
+    <string name="app_name">Themakiezer</string>
+    <string name="font_preview_letters">AaBbCcDd</string>
+    <string name="theme_installed_notification_title">%s geïnstalleerd</string>
+    <string name="theme_installed_notification_text">Thema installeren geslaagd.</string>
+    <string name="themes_installed_notification_title">%d thema\'s geïnstalleerd</string>
+    <string name="themes_installed_notification_text_one">%1$s en %2$d andere geïnstalleerd.</string>
+    <string name="themes_installed_notification_text_other">%1$s en %2$d andere geïnstalleerd.</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">Pictogrammen</string>
+    <string name="font_label">Lettertypen</string>
+    <string name="statusbar_label">Status</string>
+    <string name="navbar_label">Navigatie</string>
+    <string name="wallpaper_label">Achtergrond</string>
+    <string name="lockscreen_label">Achtergrond vergrendelingsscherm</string>
+    <string name="live_lock_screen_label">Geanimeerd vergrendelingsscherm</string>
+    <string name="style_label">Besturingselementen</string>
+    <string name="boot_animation_label">Opstartanimatie</string>
+    <string name="alarm_label">Alarm</string>
+    <string name="notification_label">Melding</string>
+    <string name="ringtone_label">Beltoon</string>
+    <string name="menu_customize">Aanpassen</string>
+    <string name="menu_delete">Verwijderen</string>
+    <string name="menu_reset">Thema opnieuw instellen</string>
+    <string name="shop_themes">Thema\'s kopen</string>
+    <string name="apply_theme_overlay_title">Toepassen</string>
+    <string name="delete_theme_overlay_title">Verwijderen</string>
+    <string name="reset_theme_overlay_title">Opnieuw instellen</string>
+    <string name="default_tag_text">Standaard</string>
+    <string name="customized_tag_text">Aangepast</string>
+    <string name="updated_tag_text">Bijgewerkt</string>
+    <string name="add_component_text">Toevoegen</string>
+    <string name="wallpaper_none">Geen</string>
+    <string name="audible_title_none">Geen</string>
+    <string name="reset_theme">Opnieuw instellen</string>
+    <string name="customize_theme">Aanpassen</string>
+    <string name="wallpaper_external_title">Afbeelding kiezen</string>
+    <string name="wallpaper_none_title">Geen</string>
+    <string name="mod_lock_title">MOD Vergrendeling</string>
+    <string name="processing_theme">Verwerken\u2026</string>
+    <string name="legacy_theme_warning">Let op: %s is ontworpen voor een oudere versie van CM. Er kunnen compatibiliteitsproblemen optreden bij het gebruik van dit thema.</string>
+    <string name="per_app_theming_title">App-thema\'s</string>
+    <string name="per_app_theme_removal_warning">Let op: Toepassen van een nieuw thema zal alle aanpassingen van het app-thema verwijderen.</string>
+    <string name="per_app_theme_applying">Uw thema wordt toegepast</string>
+    <string name="per_app_theme_app_not_overlaid_warning">Het thema ondersteunt deze app niet. Enkele elementen kunnen ongewijzigd blijven.</string>
+    <string name="read_external_permission_denied_message">Themakiezer kan geen toegang tot media krijgen en is nu niet in staat een afbeelding te kiezen.</string>
+    <string name="animated_lock_screen_badge_text">Geanimeerd</string>
+    <string name="enable_live_lock_screen_dialog_title">Geanimeerd vergrendelingsscherm inschakelen</string>
+    <string name="enable_live_lock_screen_dialog_message">Geanimeerde vergrendelingsschermen vereisen de functie \"Geanimeerd vergrendelingsscherm\". U kunt dit wijzigen door in de instellingen van vergrendelingsscherm naar de geanimeerd vergrendelingsscherm-pagina te gaan.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Inschakelen</string>
+    <string name="get_more_app_not_available">App niet beschikbaar</string>
+    <string name="new_feature_label">Nieuw</string>
 </resources>

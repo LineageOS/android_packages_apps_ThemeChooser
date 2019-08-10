@@ -17,65 +17,55 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Selector de temă</string>
-  <string name="font_preview_letters">AaBbCcDd</string>
-  <string name="theme_installed_notification_title">%s instalată</string>
-  <string name="theme_installed_notification_text">Tema a fost instalată cu succes.</string>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <string name="themes_installed_notification_title">%d teme instalate</string>
-  <string name="themes_installed_notification_text_one">%1$s și încă %2$d instalate.</string>
-  <string name="themes_installed_notification_text_other">%1$s și încă %2$d instalate.</string>
-  <string name="font_component_item_text">Aa</string>
-  <!-- Labels for each theme component card -->
-  <string name="icon_label">Pictograme</string>
-  <string name="font_label">Caractere</string>
-  <string name="statusbar_label">Stare</string>
-  <string name="navbar_label">Navigare</string>
-  <string name="wallpaper_label">Tapet</string>
-  <string name="lockscreen_label">Tapete ecran de blocare</string>
-  <string name="live_lock_screen_label">Live lockscreen</string>
-  <string name="style_label">Controale</string>
-  <string name="boot_animation_label">Animație pornire</string>
-  <string name="alarm_label">Alarmă</string>
-  <string name="notification_label">Notificare</string>
-  <string name="ringtone_label">Ton de apel</string>
-  <!-- Overflow menu -->
-  <string name="menu_customize">Personalizare</string>
-  <string name="menu_delete">Ștergeți</string>
-  <string name="menu_reset">Reinițializare temă</string>
-  <!-- Shop themes -->
-  <string name="shop_themes">Magazin de teme</string>
-  <!-- Overlay titles -->
-  <string name="apply_theme_overlay_title">Aplicare</string>
-  <string name="delete_theme_overlay_title">Ștergeți</string>
-  <string name="reset_theme_overlay_title">Resetare</string>
-  <!-- TAG text -->
-  <string name="default_tag_text">Implicit</string>
-  <string name="customized_tag_text">Personalizate</string>
-  <string name="updated_tag_text">Actualizat</string>
-  <string name="add_component_text">Adăugare</string>
-  <string name="wallpaper_none">Nimic</string>
-  <string name="audible_title_none">Nimic</string>
-  <!-- Labels for the customize/reset theme layout -->
-  <string name="reset_theme">Resetare</string>
-  <string name="customize_theme">Personalizare</string>
-  <!-- Extra wallpaper components for selector -->
-  <string name="wallpaper_external_title">Alege imaginea</string>
-  <string name="wallpaper_none_title">Nimic</string>
-  <string name="mod_lock_title">Blocare MOD</string>
-  <string name="processing_theme">Procesând\u2026</string>
-  <!-- Legacy themes -->
-  <string name="legacy_theme_warning">NOTĂ: %s a fost conceput pentru o versiune mai veche a CM. Ați putea experimenta probleme de compatibilitate cu această temă.</string>
-  <!-- Per app theming -->
-  <string name="per_app_theming_title">App Themer</string>
-  <string name="per_app_theme_removal_warning">NOTĂ: Aplicarea unei noi teme va elimina toate particularizările de temă ale aplicațiilor.</string>
-  <string name="per_app_theme_applying">Tema se aplică</string>
-  <string name="per_app_theme_app_not_overlaid_warning">Tema nu are suport pentru acestă aplicație, unele elemente nu se pot schimba.</string>
-  <string name="read_external_permission_denied_message">Selectorul de Temă nu poate accesa fișierele media şi nu poate să aleagă o imagine în acest moment.</string>
-  <string name="animated_lock_screen_badge_text">Anim</string>
-  <string name="enable_live_lock_screen_dialog_title">Activați Live lockscreen</string>
-  <string name="enable_live_lock_screen_dialog_message">Ecranele de blocare animate necesită caracteristica Live lockscreen. Puteți schimba aceasta mai târziu în Setări, vizitând pagina Live lockscreen în opțiunile Ecran de blocare.</string>
-  <string name="enable_live_lock_screen_dialog_positive_btn_text">Activare</string>
-  <string name="get_more_app_not_available">Aplicația nu este disponibilă</string>
-  <string name="new_feature_label">Nou</string>
+    <string name="app_name">Selector de temă</string>
+    <string name="font_preview_letters">AaBbCcDd</string>
+    <string name="theme_installed_notification_title">%s instalată</string>
+    <string name="theme_installed_notification_text">Tema a fost instalată cu succes.</string>
+    <string name="themes_installed_notification_title">%d teme instalate</string>
+    <string name="themes_installed_notification_text_one">%1$s și încă %2$d instalate.</string>
+    <string name="themes_installed_notification_text_other">%1$s și încă %2$d instalate.</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">Pictograme</string>
+    <string name="font_label">Caractere</string>
+    <string name="statusbar_label">Stare</string>
+    <string name="navbar_label">Navigare</string>
+    <string name="wallpaper_label">Tapet</string>
+    <string name="lockscreen_label">Tapete ecran de blocare</string>
+    <string name="live_lock_screen_label">Live lockscreen</string>
+    <string name="style_label">Controale</string>
+    <string name="boot_animation_label">Animație pornire</string>
+    <string name="alarm_label">Alarmă</string>
+    <string name="notification_label">Notificare</string>
+    <string name="ringtone_label">Ton de apel</string>
+    <string name="menu_customize">Personalizare</string>
+    <string name="menu_delete">Ștergeți</string>
+    <string name="menu_reset">Reinițializare temă</string>
+    <string name="shop_themes">Magazin de teme</string>
+    <string name="apply_theme_overlay_title">Aplicare</string>
+    <string name="delete_theme_overlay_title">Ștergeți</string>
+    <string name="reset_theme_overlay_title">Resetare</string>
+    <string name="default_tag_text">Implicit</string>
+    <string name="customized_tag_text">Personalizate</string>
+    <string name="updated_tag_text">Actualizat</string>
+    <string name="add_component_text">Adăugare</string>
+    <string name="wallpaper_none">Nimic</string>
+    <string name="audible_title_none">Nimic</string>
+    <string name="reset_theme">Resetare</string>
+    <string name="customize_theme">Personalizare</string>
+    <string name="wallpaper_external_title">Alege imaginea</string>
+    <string name="wallpaper_none_title">Nimic</string>
+    <string name="mod_lock_title">Blocare MOD</string>
+    <string name="processing_theme">Procesând\u2026</string>
+    <string name="legacy_theme_warning">NOTĂ: %s a fost conceput pentru o versiune mai veche a CM. Ați putea experimenta probleme de compatibilitate cu această temă.</string>
+    <string name="per_app_theming_title">App Themer</string>
+    <string name="per_app_theme_removal_warning">NOTĂ: Aplicarea unei noi teme va elimina toate particularizările de temă ale aplicațiilor.</string>
+    <string name="per_app_theme_applying">Tema se aplică</string>
+    <string name="per_app_theme_app_not_overlaid_warning">Tema nu are suport pentru acestă aplicație, unele elemente nu se pot schimba.</string>
+    <string name="read_external_permission_denied_message">Selectorul de Temă nu poate accesa fișierele media şi nu poate să aleagă o imagine în acest moment.</string>
+    <string name="animated_lock_screen_badge_text">Anim</string>
+    <string name="enable_live_lock_screen_dialog_title">Activați Live lockscreen</string>
+    <string name="enable_live_lock_screen_dialog_message">Ecranele de blocare animate necesită caracteristica Live lockscreen. Puteți schimba aceasta mai târziu în Setări, vizitând pagina Live lockscreen în opțiunile Ecran de blocare.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Activare</string>
+    <string name="get_more_app_not_available">Aplicația nu este disponibilă</string>
+    <string name="new_feature_label">Nou</string>
 </resources>

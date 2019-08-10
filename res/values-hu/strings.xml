@@ -17,65 +17,55 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Témaválasztó</string>
-  <string name="font_preview_letters">AaBbCcDd</string>
-  <string name="theme_installed_notification_title">%s telepítve</string>
-  <string name="theme_installed_notification_text">Téma sikeresen telepítve.</string>
-  <!-- Note: These are for "themes", meaning multiple themes -->
-  <string name="themes_installed_notification_title">%d telepített téma</string>
-  <string name="themes_installed_notification_text_one">%1$s és %2$d másik telepítve.</string>
-  <string name="themes_installed_notification_text_other">%1$s és %2$d másik telepítve.</string>
-  <string name="font_component_item_text">Aa</string>
-  <!-- Labels for each theme component card -->
-  <string name="icon_label">Ikonok</string>
-  <string name="font_label">Betűtípusok</string>
-  <string name="statusbar_label">Státusz</string>
-  <string name="navbar_label">Navigáció</string>
-  <string name="wallpaper_label">Háttérkép</string>
-  <string name="lockscreen_label">Képernyőzár háttérkép</string>
-  <string name="live_lock_screen_label">Élő zárképernyő</string>
-  <string name="style_label">Vezérlők</string>
-  <string name="boot_animation_label">Boot animáció</string>
-  <string name="alarm_label">Ébresztő</string>
-  <string name="notification_label">Értesítés</string>
-  <string name="ringtone_label">Csengőhang</string>
-  <!-- Overflow menu -->
-  <string name="menu_customize">Testreszabás</string>
-  <string name="menu_delete">Törlés</string>
-  <string name="menu_reset">Téma visszaállítása</string>
-  <!-- Shop themes -->
-  <string name="shop_themes">Témák vásárlása</string>
-  <!-- Overlay titles -->
-  <string name="apply_theme_overlay_title">Alkalmazás</string>
-  <string name="delete_theme_overlay_title">Törlés</string>
-  <string name="reset_theme_overlay_title">Visszaállítás</string>
-  <!-- TAG text -->
-  <string name="default_tag_text">Alapértelmezett</string>
-  <string name="customized_tag_text">Személyre szabott</string>
-  <string name="updated_tag_text">Frissítve</string>
-  <string name="add_component_text">Hozzáadás</string>
-  <string name="wallpaper_none">Nincs</string>
-  <string name="audible_title_none">Nincs</string>
-  <!-- Labels for the customize/reset theme layout -->
-  <string name="reset_theme">Visszaállítás</string>
-  <string name="customize_theme">Testreszabás</string>
-  <!-- Extra wallpaper components for selector -->
-  <string name="wallpaper_external_title">Kép kiválasztása</string>
-  <string name="wallpaper_none_title">Nincs</string>
-  <string name="mod_lock_title">MOD-Lock</string>
-  <string name="processing_theme">Feldolgozás\u2026</string>
-  <!-- Legacy themes -->
-  <string name="legacy_theme_warning">Megjegyzés: %s egy korábbi CM verzióhoz készült. A téma használata közben kompatibilitási problémákkal szembesülhet.</string>
-  <!-- Per app theming -->
-  <string name="per_app_theming_title">Alkalmazás témázó</string>
-  <string name="per_app_theme_removal_warning">MEGJEGYZÉS: Új téma alkalmazásával minden alkalmazás témamódosítása elveszik.</string>
-  <string name="per_app_theme_applying">A témája alkalmazásra került</string>
-  <string name="per_app_theme_app_not_overlaid_warning">A téma nem támogatja az alkalmazást, egyes elemek nem fognak változni.</string>
-  <string name="read_external_permission_denied_message">Témaválasztó nem fér hozzá a médiához és képtelen jelenleg képet választani.</string>
-  <string name="animated_lock_screen_badge_text">Animáció</string>
-  <string name="enable_live_lock_screen_dialog_title">Élő zárképernyő engedélyezése</string>
-  <string name="enable_live_lock_screen_dialog_message">Animált zárképernyőhöz szükséges az élő zárképernyő funkció. Ezt később megváltoztathatja a Beállítások, Zárképernyő beállításai, Élő zárképernyő menüben.</string>
-  <string name="enable_live_lock_screen_dialog_positive_btn_text">Engedélyezés</string>
-  <string name="get_more_app_not_available">Alkalmazás nem elérhető</string>
-  <string name="new_feature_label">Új</string>
+    <string name="app_name">Témaválasztó</string>
+    <string name="font_preview_letters">AaBbCcDd</string>
+    <string name="theme_installed_notification_title">%s telepítve</string>
+    <string name="theme_installed_notification_text">Téma sikeresen telepítve.</string>
+    <string name="themes_installed_notification_title">%d telepített téma</string>
+    <string name="themes_installed_notification_text_one">%1$s és %2$d másik telepítve.</string>
+    <string name="themes_installed_notification_text_other">%1$s és %2$d másik telepítve.</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">Ikonok</string>
+    <string name="font_label">Betűtípusok</string>
+    <string name="statusbar_label">Státusz</string>
+    <string name="navbar_label">Navigáció</string>
+    <string name="wallpaper_label">Háttérkép</string>
+    <string name="lockscreen_label">Képernyőzár háttérkép</string>
+    <string name="live_lock_screen_label">Élő zárképernyő</string>
+    <string name="style_label">Vezérlők</string>
+    <string name="boot_animation_label">Boot animáció</string>
+    <string name="alarm_label">Ébresztő</string>
+    <string name="notification_label">Értesítés</string>
+    <string name="ringtone_label">Csengőhang</string>
+    <string name="menu_customize">Testreszabás</string>
+    <string name="menu_delete">Törlés</string>
+    <string name="menu_reset">Téma visszaállítása</string>
+    <string name="shop_themes">Témák vásárlása</string>
+    <string name="apply_theme_overlay_title">Alkalmazás</string>
+    <string name="delete_theme_overlay_title">Törlés</string>
+    <string name="reset_theme_overlay_title">Visszaállítás</string>
+    <string name="default_tag_text">Alapértelmezett</string>
+    <string name="customized_tag_text">Személyre szabott</string>
+    <string name="updated_tag_text">Frissítve</string>
+    <string name="add_component_text">Hozzáadás</string>
+    <string name="wallpaper_none">Nincs</string>
+    <string name="audible_title_none">Nincs</string>
+    <string name="reset_theme">Visszaállítás</string>
+    <string name="customize_theme">Testreszabás</string>
+    <string name="wallpaper_external_title">Kép kiválasztása</string>
+    <string name="wallpaper_none_title">Nincs</string>
+    <string name="mod_lock_title">MOD-Lock</string>
+    <string name="processing_theme">Feldolgozás\u2026</string>
+    <string name="legacy_theme_warning">Megjegyzés: %s egy korábbi CM verzióhoz készült. A téma használata közben kompatibilitási problémákkal szembesülhet.</string>
+    <string name="per_app_theming_title">Alkalmazás témázó</string>
+    <string name="per_app_theme_removal_warning">MEGJEGYZÉS: Új téma alkalmazásával minden alkalmazás témamódosítása elveszik.</string>
+    <string name="per_app_theme_applying">A témája alkalmazásra került</string>
+    <string name="per_app_theme_app_not_overlaid_warning">A téma nem támogatja az alkalmazást, egyes elemek nem fognak változni.</string>
+    <string name="read_external_permission_denied_message">Témaválasztó nem fér hozzá a médiához és képtelen jelenleg képet választani.</string>
+    <string name="animated_lock_screen_badge_text">Animáció</string>
+    <string name="enable_live_lock_screen_dialog_title">Élő zárképernyő engedélyezése</string>
+    <string name="enable_live_lock_screen_dialog_message">Animált zárképernyőhöz szükséges az élő zárképernyő funkció. Ezt később megváltoztathatja a Beállítások, Zárképernyő beállításai, Élő zárképernyő menüben.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Engedélyezés</string>
+    <string name="get_more_app_not_available">Alkalmazás nem elérhető</string>
+    <string name="new_feature_label">Új</string>
 </resources>
