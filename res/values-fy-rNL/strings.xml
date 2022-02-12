@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 Cyanogen, Inc.
+     Copyright (C) 2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources>
+    <string name="app_name">Temakiezer</string>
+    <string name="font_preview_letters">AaBbCcDd</string>
+    <string name="theme_installed_notification_title">%s ynstallearre</string>
+    <string name="theme_installed_notification_text">Tema ynstallearjen slagge.</string>
+    <string name="themes_installed_notification_title">%d tema\'s ynstallearre</string>
+    <string name="themes_installed_notification_text_one">%1$s en %2$d oare ynstallearre.</string>
+    <string name="themes_installed_notification_text_other">%1$s en %2$d oare ynstallearre.</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">Piktogrammen</string>
+    <string name="font_label">Lettertypen</string>
+    <string name="statusbar_label">Steat</string>
+    <string name="navbar_label">Navigaasje</string>
+    <string name="wallpaper_label">Eftergrûn</string>
+    <string name="lockscreen_label">Eftergrûn beskoattelingsskerm</string>
+    <string name="live_lock_screen_label">Animearre beskoattelingsskerm</string>
+    <string name="style_label">Bestjoeringseleminten</string>
+    <string name="boot_animation_label">Opstartanimaasje</string>
+    <string name="alarm_label">Alarm</string>
+    <string name="notification_label">Melding</string>
+    <string name="ringtone_label">Beltoan</string>
+    <string name="menu_customize">Oanpasse</string>
+    <string name="menu_delete">Fuortsmite</string>
+    <string name="menu_reset">Tema opnij ynstelle</string>
+    <string name="shop_themes">Tema\'s keapje</string>
+    <string name="apply_theme_overlay_title">Tapasse</string>
+    <string name="delete_theme_overlay_title">Fuortsmite</string>
+    <string name="reset_theme_overlay_title">Opnij ynstelle</string>
+    <string name="default_tag_text">Standert</string>
+    <string name="customized_tag_text">Oanpast</string>
+    <string name="updated_tag_text">Fernijd</string>
+    <string name="add_component_text">Tafoegje</string>
+    <string name="wallpaper_none">Gjin</string>
+    <string name="audible_title_none">Gjin</string>
+    <string name="reset_theme">Opnij ynstelle</string>
+    <string name="customize_theme">Oanpasse</string>
+    <string name="wallpaper_external_title">Ofbylding kieze</string>
+    <string name="wallpaper_none_title">Gjin</string>
+    <string name="mod_lock_title">MOD-beskoatteling</string>
+    <string name="processing_theme">Ferwurkje\u2026</string>
+    <string name="legacy_theme_warning">Let op: %s is ûntwurpen foar in âldere ferzje fan CM. Der kinne komptabiliteitsproblemen barre by it gebrûk fan dit tema.</string>
+    <string name="per_app_theming_title">App-tema\'s</string>
+    <string name="per_app_theme_removal_warning">Let op: Tapassen fan in nij tema sil alle oanpassingen fan it app-tema fuortsmite.</string>
+    <string name="per_app_theme_applying">Jo tema wurdt tapast</string>
+    <string name="per_app_theme_app_not_overlaid_warning">It tema stipet dizze app net. Inkelde eleminten kinne net wizige bliuwe.</string>
+    <string name="read_external_permission_denied_message">Temakiezer kin gjin tagong ta media krije en is no net yn steat in ôfbylding te kiezen.</string>
+    <string name="animated_lock_screen_badge_text">Animearre</string>
+    <string name="enable_live_lock_screen_dialog_title">Animearre beskoattelingsskerm ynskeakelje</string>
+    <string name="enable_live_lock_screen_dialog_message">Animearre beskoattelingsskermen fereaskje de funksje ‘Animearre beskoattelingsskerm’. Jo kinne dit wizigje troch yn de ynstellingen fan beskoattelingsskerm nei de animearre beskoattelingsskerm-side te gean.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Ynskeakelje</string>
+    <string name="get_more_app_not_available">App net beskikber</string>
+    <string name="new_feature_label">Nij</string>
+</resources>

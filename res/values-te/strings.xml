@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 Cyanogen, Inc.
+     Copyright (C) 2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources>
+    <string name="app_name">థీమ్ నిర్ణేత</string>
+    <string name="font_preview_letters">AaBbCcDd</string>
+    <string name="theme_installed_notification_title">%s వ్యవస్థాపించబడింది</string>
+    <string name="theme_installed_notification_text">థీమ్ విజయవంతంగా వ్యవస్థాపించబడింది.</string>
+    <string name="themes_installed_notification_title">%d థీములు వ్యవస్థాపించబడ్డాయి</string>
+    <string name="themes_installed_notification_text_one">%1$s మరియు %2$d వేరేది వ్యవస్థాపించబడ్డాయి.</string>
+    <string name="themes_installed_notification_text_other">%1$s మరియు %2$d ఇతరాలు వ్యవస్థాపించబడ్డాయి.</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">చిహ్నాలు</string>
+    <string name="font_label">అక్షరాకృతులు</string>
+    <string name="statusbar_label">స్థితి</string>
+    <string name="navbar_label">నావిగేషన్</string>
+    <string name="wallpaper_label">వాల్‌పేపర్</string>
+    <string name="lockscreen_label">లాక్‌స్కీన్ వాల్‌పేపర్</string>
+    <string name="style_label">నియంత్రణలు</string>
+    <string name="boot_animation_label">బూట్ సచేతనం</string>
+    <string name="alarm_label">అలారం</string>
+    <string name="notification_label">నోటిఫికేషన్</string>
+    <string name="ringtone_label">రింగ్‌టోన్</string>
+    <string name="menu_delete">తొలగించు</string>
+    <string name="menu_reset">థీమును రీసెట్ చేయుము</string>
+    <string name="shop_themes">థీముల కొరకు షాప్ చేయుము</string>
+    <string name="apply_theme_overlay_title">వర్తింపజేయుము</string>
+    <string name="delete_theme_overlay_title">తొలగించు</string>
+    <string name="reset_theme_overlay_title">రీసెట్ చేయి</string>
+    <string name="default_tag_text">డిఫాల్ట్</string>
+    <string name="customized_tag_text">అనుకూలీకరించిన</string>
+    <string name="updated_tag_text">నవీకరించబడిన</string>
+    <string name="add_component_text">జోడించండి</string>
+    <string name="wallpaper_none">ఏదీ లేదు</string>
+    <string name="audible_title_none">ఏదీ లేదు</string>
+    <string name="reset_theme">రీసెట్ చేయి</string>
+    <string name="customize_theme">అనుకూలపరచుము</string>
+    <string name="wallpaper_external_title">చిత్రాన్ని ఎంచుకోండి</string>
+    <string name="wallpaper_none_title">ఏదీ లేదు</string>
+    <string name="processing_theme">ప్రాసెసింగ్\u2026</string>
+    <string name="legacy_theme_warning">గమనిక: CM యొక్క పాత సంస్కరణ కొరకు %s రూపొందించబడింది. ఈ థీములతో మీరు అనుకూలత సమస్యలను ఎదుర్కొనవచ్చు.</string>
+    <string name="per_app_theming_title">ప్రోగ్రాం థీమర్</string>
+    <string name="per_app_theme_removal_warning">గమనిక: ఒక క్రొత్త థీమును వర్తింపజేయడం అనేది ఏవైనా ప్రోగ్రాం థీమ్ అనుకూలీకరణలను తొలిగిస్తుంది</string>
+    <string name="per_app_theme_applying">మీ థీమ్ వర్తింపజేయబడుతుంది</string>
+    <string name="per_app_theme_app_not_overlaid_warning">థీమ్ ఈ ప్రోగ్రాంకి మద్దతు ఇవ్వడం లేదు, కొన్ని అంశాలు మారక పోవచ్చు.</string>
+    <string name="get_more_app_not_available">ప్రోగ్రాం అందుబాటులో లేదు</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 Cyanogen, Inc.
+     Copyright (C) 2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources>
+    <string name="app_name">Val á þema</string>
+    <string name="theme_installed_notification_text">Uppsetning á þema tókst.</string>
+    <string name="themes_installed_notification_title">%d þemu sett upp</string>
+    <string name="themes_installed_notification_text_one">%1$s og %2$d til viðbótar uppsett.</string>
+    <string name="themes_installed_notification_text_other">%1$s og %2$d til viðbótar uppsett.</string>
+    <string name="live_lock_screen_label">Lifandi læsiskjár</string>
+    <string name="mod_lock_title">MOD-læsing</string>
+    <string name="processing_theme">Í vinnslu\u2026</string>
+    <string name="per_app_theme_applying">Verið er að virkja þemað þitt</string>
+    <string name="animated_lock_screen_badge_text">Hreyfi</string>
+    <string name="enable_live_lock_screen_dialog_title">Virkja lifandi læsiskjá</string>
+    <string name="get_more_app_not_available">Forrit er ekki tiltækt</string>
+</resources>

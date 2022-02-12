@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 Cyanogen, Inc.
+     Copyright (C) 2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources>
+    <string name="app_name">Roghnaichear ùrlaran</string>
+    <string name="font_preview_letters">AaBbCcDd</string>
+    <string name="theme_installed_notification_title">Chaidh %s a stàladh</string>
+    <string name="theme_installed_notification_text">Chaidh an t-ùrlar a stàladh.</string>
+    <string name="themes_installed_notification_title">Chaidh %d ùrlar(an) a stàladh</string>
+    <string name="themes_installed_notification_text_one">Chaidh %1$s ’s %2$d eile a stàladh.</string>
+    <string name="themes_installed_notification_text_other">Chaidh %1$s ’s %2$d eile a stàladh.</string>
+    <string name="font_component_item_text">Aa</string>
+    <string name="icon_label">Ìomhaigheagan</string>
+    <string name="font_label">Cruthan-clò</string>
+    <string name="statusbar_label">Staid</string>
+    <string name="navbar_label">Seòladaireachd</string>
+    <string name="wallpaper_label">Pàipear-balla</string>
+    <string name="lockscreen_label">Pàipear-balla na sgrìn-ghlasaidh</string>
+    <string name="live_lock_screen_label">Sgrìn-ghlasaidh bheò</string>
+    <string name="style_label">Stiùireadh</string>
+    <string name="boot_animation_label">Beòthachadh a’ bhùtaidh</string>
+    <string name="alarm_label">Caismeachd</string>
+    <string name="notification_label">Brath</string>
+    <string name="ringtone_label">Seirm</string>
+    <string name="menu_customize">Gnàthaich</string>
+    <string name="menu_delete">Sguab às</string>
+    <string name="menu_reset">Ath-shuidhich an t-ùrlar</string>
+    <string name="shop_themes">Ceannaich ùrlaran</string>
+    <string name="apply_theme_overlay_title">Cuir an sàs</string>
+    <string name="delete_theme_overlay_title">Sguab às</string>
+    <string name="reset_theme_overlay_title">Ath-shuidhich</string>
+    <string name="default_tag_text">Bun-roghainn</string>
+    <string name="customized_tag_text">Gnàthaichte</string>
+    <string name="updated_tag_text">Air ùrachadh</string>
+    <string name="add_component_text">Cuir ris</string>
+    <string name="wallpaper_none">Chan eil gin</string>
+    <string name="audible_title_none">Chan eil gin</string>
+    <string name="reset_theme">Ath-shuidhich</string>
+    <string name="customize_theme">Gnàthaich</string>
+    <string name="wallpaper_external_title">Tagh dealbh</string>
+    <string name="wallpaper_none_title">Chan eil gin</string>
+    <string name="mod_lock_title">Glas MOD</string>
+    <string name="processing_theme">’Ga phròiseasadh\u2026</string>
+    <string name="legacy_theme_warning">AN AIRE: Chaidh %s a dhealbhadh airson tionndadh nas sine dhe CM. Dh’fhaoidte gun èirich trioblaid co-chòrdalachd ort leis an ùrlar seo.</string>
+    <string name="per_app_theming_title">Inneal ùrlaran aplacaidean</string>
+    <string name="per_app_theme_removal_warning">AN AIRE: Ma chuireas tu ùrlar ùr an sàs, thèid gach gnàthachadh air ùrlaran aplacaidean a thoirt air falbh.</string>
+    <string name="per_app_theme_applying">Tha an t-ùrlar agad ’ga chur an sàs</string>
+    <string name="per_app_theme_app_not_overlaid_warning">Cha chuir an t-ùrlar taic ris an aplacaid seo, dh’fhaoidte nach atharraich gach nì dheth.</string>
+    <string name="read_external_permission_denied_message">Chan fhaod an roghnaichear ùrlaran na meadhanan inntrigeadh ’s chan urrainn dha dealbh a thaghadh aig an àm seo.</string>
+    <string name="animated_lock_screen_badge_text">Beòthachadh</string>
+    <string name="enable_live_lock_screen_dialog_title">Cuir an sgrìn-ghlasaidh bheò an comas</string>
+    <string name="enable_live_lock_screen_dialog_message">Feumaidh sgrìnichean-glasaidh beòthaichte gleus na sgrìn-ghlasaidh beò. ’S urrainn dhut sin atharrachadh uair sam bith ’s tu a’ fosgladh nan roghainnean ’s a’ tadhal air duilleag na sgrìn-ghlasaidh beò fo roghainnean na sgrìn-ghlasaidh.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Cuir an comas</string>
+    <string name="get_more_app_not_available">Chan eil aplacaid ri fhaighinn</string>
+    <string name="new_feature_label">Ùr</string>
+</resources>
